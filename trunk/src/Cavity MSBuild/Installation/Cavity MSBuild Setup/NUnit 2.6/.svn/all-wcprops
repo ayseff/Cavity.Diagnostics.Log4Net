@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/800/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/NUnit%202.6
+END
+nunit-agent.exe
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/800/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/NUnit%202.6/nunit-agent.exe
+END
+nunit-agent-x86.exe
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/800/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/NUnit%202.6/nunit-agent-x86.exe
+END
+nunit-agent.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/800/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/NUnit%202.6/nunit-agent.exe.config
+END
+nunit-console.exe
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/800/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/NUnit%202.6/nunit-console.exe
+END
+nunit-console-x86.exe
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/800/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/NUnit%202.6/nunit-console-x86.exe
+END
+nunit-agent-x86.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/800/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/NUnit%202.6/nunit-agent-x86.exe.config
+END
+nunit-console.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/800/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/NUnit%202.6/nunit-console.exe.config
+END
+nunit-console-x86.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/800/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/NUnit%202.6/nunit-console-x86.exe.config
+END

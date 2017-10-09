@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/975/trunk/src/Cavity%20HTTP%20Testing/.nuget
+END
+NuGet.Config
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/774/trunk/src/Cavity%20HTTP%20Testing/.nuget/NuGet.Config
+END
+Cavity HTTP Testing.nuspec
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/975/trunk/src/Cavity%20HTTP%20Testing/.nuget/Cavity%20HTTP%20Testing.nuspec
+END
+NuGet.targets
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/975/trunk/src/Cavity%20HTTP%20Testing/.nuget/NuGet.targets
+END
+NuGet.exe
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/975/trunk/src/Cavity%20HTTP%20Testing/.nuget/NuGet.exe
+END

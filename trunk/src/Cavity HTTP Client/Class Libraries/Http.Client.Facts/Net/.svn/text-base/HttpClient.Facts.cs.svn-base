@@ -1,0 +1,195 @@
+﻿namespace Cavity.Net
+{
+    using System;
+    using System.IO;
+
+    using Cavity.Net.Mime;
+
+    using Microsoft.Practices.ServiceLocation;
+
+    using Moq;
+
+    using Xunit;
+
+    public sealed class HttpClientFacts
+    {
+        [Fact]
+        public void a_definition()
+        {
+            Assert.True(new TypeExpectations<HttpClient>()
+                            .DerivesFrom<ComparableObject>()
+                            .IsConcreteClass()
+                            .IsSealed()
+                            .HasDefaultConstructor()
+                            .IsNotDecorated()
+                            .Implements<IHttpClient>()
+                            .Result);
+        }
+
+        [Fact]
+        public void ctor()
+        {
+            Assert.NotNull(new HttpClient());
+        }
+
+        [Fact]
+        public void ctor_IHttp()
+        {
+            Assert.NotNull(new HttpClient(new Http()));
+        }
+
+        [Fact]
+        public void ctor_IHttpNull()
+        {
+            Assert.Throws<ArgumentNullException>(() => new HttpClient(null));
+        }
+
+        [Fact]
+        public void op_Navigate_IHttpRequest()
+        {
+            try
+            {
+                var media = new Mock<IMediaType>();
+                media
+                    .Setup(x => x.ToContent(It.IsAny<TextReader>()))
+                    .Returns(new Mock<IContent>().Object)
+                    .Verifiable();
+
+                var locator = new Mock<IServiceLocator>();
+                locator
+                    .Setup(e => e.GetInstance<IMediaType>("text/html"))
+                    .Returns(media.Object)
+                    .Verifiable();
+
+                ServiceLocator.SetLocatorProvider(() => locator.Object);
+
+                HttpRequest request =
+                    "GET http://www.alan-dean.com/about.en.html HTTP/1.1" + Environment.NewLine +
+                    "Host: www.example.com" + Environment.NewLine +
+                    "Connection: close" + Environment.NewLine +
+                    string.Empty;
+
+                var client = new HttpClient();
+                client.Navigate(request);
+
+                Assert.Equal<string>("HTTP/1.1 200 OK", client.Response.StatusLine);
+                Assert.NotEqual(0, client.Response.Headers.Count);
+
+                media.VerifyAll();
+                locator.VerifyAll();
+            }
+            finally
+            {
+                ServiceLocator.SetLocatorProvider(null);
+            }
+        }
+
+        [Fact]
+        public void op_Navigate_IHttpRequestNull()
+        {
+            Assert.Throws<ArgumentNullException>(() => new HttpClient().Navigate(null));
+        }
+
+        [Fact]
+        public void op_ToString()
+        {
+            try
+            {
+                const string expected = "user agent";
+
+                var userAgent = new Mock<IUserAgent>();
+                userAgent
+                    .SetupGet(x => x.Value)
+                    .Returns(expected)
+                    .Verifiable();
+
+                var locator = new Mock<IServiceLocator>();
+                locator
+                    .Setup(e => e.GetInstance<IUserAgent>())
+                    .Returns(userAgent.Object)
+                    .Verifiable();
+
+                ServiceLocator.SetLocatorProvider(() => locator.Object);
+
+                var actual = new HttpClient().ToString();
+
+                Assert.Equal(expected, actual);
+
+                userAgent.VerifyAll();
+                locator.VerifyAll();
+            }
+            finally
+            {
+                ServiceLocator.SetLocatorProvider(null);
+            }
+        }
+
+        [Fact]
+        public void prop_Response()
+        {
+            Assert.True(new PropertyExpectations<HttpClient>(p => p.Response)
+                            .TypeIs<IHttpResponse>()
+                            .DefaultValueIsNull()
+                            .IsNotDecorated()
+                            .Result);
+        }
+
+        [Fact]
+        public void prop_UserAgent()
+        {
+            try
+            {
+                var locator = new Mock<IServiceLocator>();
+                ServiceLocator.SetLocatorProvider(() => locator.Object);
+
+                Assert.True(new PropertyExpectations<HttpClient>(p => p.UserAgent)
+                                .TypeIs<string>()
+                                .DefaultValueIs(UserAgent.Format())
+                                .IsNotDecorated()
+                                .Result);
+
+                locator.VerifyAll();
+            }
+            finally
+            {
+                ServiceLocator.SetLocatorProvider(null);
+            }
+        }
+
+        [Fact]
+        public void prop_UserAgent_whenInjected()
+        {
+            try
+            {
+                const string value = "user agent";
+
+                var userAgent = new Mock<IUserAgent>();
+                userAgent
+                    .SetupGet(x => x.Value)
+                    .Returns(value)
+                    .Verifiable();
+
+                var locator = new Mock<IServiceLocator>();
+                locator
+                    .Setup(e => e.GetInstance<IUserAgent>())
+                    .Returns(userAgent.Object)
+                    .Verifiable();
+
+                ServiceLocator.SetLocatorProvider(() => locator.Object);
+
+                Assert.True(new PropertyExpectations<HttpClient>(p => p.UserAgent)
+                                .TypeIs<string>()
+                                .DefaultValueIs(value)
+                                .IsNotDecorated()
+                                .Result);
+
+                userAgent.VerifyAll();
+                locator.VerifyAll();
+            }
+            finally
+            {
+                ServiceLocator.SetLocatorProvider(null);
+            }
+        }
+    }
+}

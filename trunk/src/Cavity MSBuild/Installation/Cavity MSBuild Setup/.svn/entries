@@ -1,0 +1,105 @@
+10
+
+dir
+977
+http://cavity.googlecode.com/svn/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup
+http://cavity.googlecode.com/svn
+
+
+
+2014-11-25T14:14:32.806777Z
+975
+alan.dean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+67bafd89-7b61-e115-2f88-658d790e9269
+
+Product.wxs
+file
+
+
+
+
+2016-03-21T21:51:22.436031Z
+dbbb2f92dbda7a9e756003fe11a9c775
+2014-11-25T14:14:32.806777Z
+975
+alan.dean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10599
+
+Cavity MSBuild Setup.wixproj
+file
+
+
+
+
+2016-03-21T21:51:22.436031Z
+5b75e1c33b68bdbe3b2eadc86613ad60
+2012-06-30T18:08:23.621551Z
+841
+alan.dean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5239
+
+NUnit 2.6
+dir
+
+Cavity 1.1
+dir
+
+Cavity 2.0
+dir
+

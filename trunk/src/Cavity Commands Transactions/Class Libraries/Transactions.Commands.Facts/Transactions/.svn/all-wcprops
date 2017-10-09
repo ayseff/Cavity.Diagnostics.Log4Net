@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/967/trunk/src/Cavity%20Commands%20Transactions/Class%20Libraries/Transactions.Commands.Facts/Transactions
+END
+Recovery.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/967/trunk/src/Cavity%20Commands%20Transactions/Class%20Libraries/Transactions.Commands.Facts/Transactions/Recovery.Facts.cs
+END
+Operation.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/967/trunk/src/Cavity%20Commands%20Transactions/Class%20Libraries/Transactions.Commands.Facts/Transactions/Operation.Facts.cs
+END
+DurableEnlistmentNotification.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/967/trunk/src/Cavity%20Commands%20Transactions/Class%20Libraries/Transactions.Commands.Facts/Transactions/DurableEnlistmentNotification.Facts.cs
+END
+DurableEnlistmentNotification.Derived.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/967/trunk/src/Cavity%20Commands%20Transactions/Class%20Libraries/Transactions.Commands.Facts/Transactions/DurableEnlistmentNotification.Derived.cs
+END
+EnlistmentIdentity.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/967/trunk/src/Cavity%20Commands%20Transactions/Class%20Libraries/Transactions.Commands.Facts/Transactions/EnlistmentIdentity.Facts.cs
+END

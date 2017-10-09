@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Cavity.Data.Html.Facts</AssemblyName>
+    <ProjectGuid>{CA71D641-5353-4BEC-9599-F6F4F782BD84}</ProjectGuid>
+    <RestorePackages>true</RestorePackages>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\..\</SolutionDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Content Include="tabular-empty.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tabular-unnamed.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tabular-vertical-heading-rowspan.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tabular-vertical-cell-rowspan.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tabular-vertical.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tabular-heading-complex.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tabular-heading-text.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tabular-heading-id.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tabular-heading-ampersand.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tabular-heading-colspan.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tabular-empty-table.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tabular-empty-row.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tabular-duplicate.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tabular-cell-colspan.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Properties\CodeAnalysis.dictionary" />
+    <Content Include="tabular-caption.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt; '2.0' ">
+    <Compile Include="Data\HtmlDocument.ExtensionMethods.Facts.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Cavity.Core">
+      <HintPath>..\..\packages\Cavity.Core.2.0.0.970\lib\$(TargetFrameworkVersionName)\Cavity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="xunit">
+      <HintPath>..\..\packages\xunit.1.9.2\lib\net20\xunit.dll</HintPath>
+    </Reference>
+    <Reference Include="xunit.extensions">
+      <HintPath>..\..\packages\xunit.extensions.1.9.2\lib\net20\xunit.extensions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt; '2.0' ">
+    <Reference Include="Cavity.Testing.Unit">
+      <HintPath>..\..\packages\Cavity.Testing.Unit.2.0.0.848\lib\$(TargetFrameworkVersionName)\Cavity.Testing.Unit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt;= '3.5' ">
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &lt; '4.0' ">
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\..\packages\HtmlAgilityPack.1.4.9\lib\NET20\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt;= '4.0' ">
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\..\packages\HtmlAgilityPack.1.4.9\lib\$(TargetFrameworkVersionName)\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Numerics" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Data.Html\Data.Html.csproj">
+      <Project>{2D8B9EC7-DD20-44E3-A8CF-D4D598EE0440}</Project>
+      <Name>Data.Html</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\AnyCPU.platform" />
+  <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\Tests.project" />
+  <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
+  <!-- 
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

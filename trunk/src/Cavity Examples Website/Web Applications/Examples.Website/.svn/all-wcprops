@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/941/trunk/src/Cavity%20Examples%20Website/Web%20Applications/Examples.Website
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/744/trunk/src/Cavity%20Examples%20Website/Web%20Applications/Examples.Website/Web.Debug.config
+END
+Global.asax
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/745/trunk/src/Cavity%20Examples%20Website/Web%20Applications/Examples.Website/Global.asax
+END
+redirection.config
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/770/trunk/src/Cavity%20Examples%20Website/Web%20Applications/Examples.Website/redirection.config
+END
+Examples.Website.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/941/trunk/src/Cavity%20Examples%20Website/Web%20Applications/Examples.Website/Examples.Website.csproj
+END
+castle.config
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/745/trunk/src/Cavity%20Examples%20Website/Web%20Applications/Examples.Website/castle.config
+END
+Global.asax.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/789/trunk/src/Cavity%20Examples%20Website/Web%20Applications/Examples.Website/Global.asax.cs
+END
+log4net.config
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/771/trunk/src/Cavity%20Examples%20Website/Web%20Applications/Examples.Website/log4net.config
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/744/trunk/src/Cavity%20Examples%20Website/Web%20Applications/Examples.Website/Web.Release.config
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/846/trunk/src/Cavity%20Examples%20Website/Web%20Applications/Examples.Website/Web.config
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/849/trunk/src/Cavity%20Examples%20Website/Web%20Applications/Examples.Website/packages.config
+END
+GlobalSuppressions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/789/trunk/src/Cavity%20Examples%20Website/Web%20Applications/Examples.Website/GlobalSuppressions.cs
+END

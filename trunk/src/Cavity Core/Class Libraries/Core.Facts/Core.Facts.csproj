@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Cavity.Core.Facts</AssemblyName>
+    <ProjectGuid>{E912C668-ED80-471E-9E57-BDB10394E47B}</ProjectGuid>
+    <RestorePackages>true</RestorePackages>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\..\</SolutionDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Content Include="Properties\CodeAnalysis.dictionary" />
+    <None Include="example.txt.gz">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="packages.config" />
+    <Content Include="metaphone.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Security\Cryptography\empty.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Security\Cryptography\jigsaw.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt; '2.0' ">
+    <Compile Include="TimeSpan.ExtensionMethods.Facts.cs" />
+    <Compile Include="Nullable`1.ExtensionMethods.Facts.cs" />
+    <Compile Include="Boolean.ExtensionMethods.Facts.cs" />
+    <Compile Include="QuarterOfYear.Facts.cs" />
+    <Compile Include="Quarter.Facts.cs" />
+    <Compile Include="Text\StringBuilder.ExtensionMethods.Facts.cs" />
+    <Compile Include="Serial.Facts.cs" />
+    <Compile Include="Xml\XmlReader.ExtensionMethods.Facts.cs" />
+    <Compile Include="Collections\IList.ExtensionMethods.Facts.cs" />
+    <Compile Include="TimeZones.Facts.cs" />
+    <Compile Include="DateTimePeriod.Facts.cs" />
+    <Compile Include="IO\CurrentTempDirectory.Facts.cs" />
+    <Compile Include="IO\IOrderedEnumerable`FileSystem.ExtensionMethods.Facts.cs" />
+    <Compile Include="IO\FileSystemInfo.ExtensionMethods.Facts.cs" />
+    <Compile Include="IO\CurrentDirectory.Facts.cs" />
+    <Compile Include="Collections\Generic\XmlSerializableCollection.Test.cs" />
+    <Compile Include="Collections\Generic\XmlSerializableCollectionItem.Test.cs" />
+    <Compile Include="Collections\Generic\XmlSerializableCollection`1.Facts.cs" />
+    <Compile Include="Collections\ICollection.ExtensionMethods.Facts.cs" />
+    <Compile Include="Collections\IDictionary.ExtensionMethods.Facts.cs" />
+    <Compile Include="Month.Facts.cs" />
+    <Compile Include="MonthOfYear.Facts.cs" />
+    <Compile Include="AbsoluteUri.Facts.cs" />
+    <Compile Include="AlphaDecimal.Facts.cs" />
+    <Compile Include="Char.ExtensionMethods.Facts.cs" />
+    <Compile Include="Collections\Generic\Matrix`1.Facts.cs" />
+    <Compile Include="Collections\Generic\MultitonCollection`1.Facts.cs" />
+    <Compile Include="CommentAttribute.Facts.cs" />
+    <Compile Include="ComparableObject.Derived.cs" />
+    <Compile Include="ComparableObject.Facts.cs" />
+    <Compile Include="Collections\Generic\Tree`1.Facts.cs" />
+    <Compile Include="Globalization\TranslationDictionary`1.Facts.cs" />
+    <Compile Include="Globalization\TranslationException.Facts.cs" />
+    <Compile Include="Compression\GZip.Facts.cs" />
+    <Compile Include="Generic.ExtensionMethods.Facts.cs" />
+    <Compile Include="DateTime.ExtensionMethods.Facts.cs" />
+    <Compile Include="Data\DataCollection.Facts.cs" />
+    <Compile Include="IO\DirectoryInfo.ExtensionMethods.Facts.cs" />
+    <Compile Include="IO\FileInfo.ExtensionMethods.Facts.cs" />
+    <Compile Include="IO\FileWriter.Facts.cs" />
+    <Compile Include="IO\TempDirectory.Facts.cs" />
+    <Compile Include="IO\TempFile.Facts.cs" />
+    <Compile Include="IO\EncodedStringWriter.Facts.cs" />
+    <Compile Include="IO\FileSpec.Facts.cs" />
+    <Compile Include="IO\StreamWriterDictionary.Facts.cs" />
+    <Compile Include="Net\EntityTag.Facts.cs" />
+    <Compile Include="Net\Token.Facts.cs" />
+    <Compile Include="Net\Quality.Facts.cs" />
+    <Compile Include="Reflection\Assembly.ExtensionMethods.Facts.cs" />
+    <Compile Include="Security\Cryptography\MD5Hash.Facts.cs" />
+    <Compile Include="Security\Cryptography\Salt.Facts.cs" />
+    <Compile Include="Security\Cryptography\SecureHash.Facts.cs" />
+    <Compile Include="Text\Encoding.ExtensionMethods.Facts.cs" />
+    <Compile Include="Object.ExtensionMethods.Facts.cs" />
+    <Compile Include="Percentage.ExtensionMethods.Facts.cs" />
+    <Compile Include="RelativeUri.Facts.cs" />
+    <Compile Include="String.ExtensionMethods.Facts.cs" />
+    <Compile Include="Temporal.ExtensionMethods.Facts.cs" />
+    <Compile Include="ValueObject`1.Derived.cs" />
+    <Compile Include="ValueObject`1.Facts.cs" />
+    <Compile Include="Characters.Facts.cs" />
+    <Compile Include="Xml\XmlNamespace.Facts.cs" />
+    <Compile Include="Xml\XPath\XPathNavigator.ExtensionMethods.Facts.cs" />
+    <Compile Include="Collections\KeyStringDictionary.Facts.cs" />
+    <Compile Include="Data\KeyStringPair.Facts.cs" />
+    <Compile Include="Globalization\CultureInfo.ExtensionMethods.Facts.cs" />
+    <Compile Include="Globalization\Language.Facts.cs" />
+    <Compile Include="Globalization\Translation`1.Facts.cs" />
+    <Compile Include="DisposableObject.Derived.cs" />
+    <Compile Include="DisposableObject.Facts.cs" />
+    <Compile Include="Static`1.Facts.cs" />
+    <Compile Include="IssueAttribute.Facts.cs" />
+    <Compile Include="MutableString.Facts.cs" />
+    <Compile Include="NullObject.Facts.cs" />
+    <Compile Include="Date.Facts.cs" />
+    <Compile Include="UserStoryAttribute.Facts.cs" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt; '3.5' ">
+    <Compile Include="Dynamic\DynamicData.Derived.cs" />
+    <Compile Include="Dynamic\DynamicData.Facts.cs" />
+    <Compile Include="Text\Html.Facts.cs" />
+    <Compile Include="Threading\ThreadedObject.Derived.cs" />
+    <Compile Include="Threading\IThreadedObject.Facts.cs" />
+    <Compile Include="Threading\ThreadedObject.Facts.cs" />
+    <Compile Include="Collections\IEnumerable.ExtensionMethods.Facts.cs" />
+    <Compile Include="ICalculateDateTimePeriod`1.Facts.cs" />
+    <Compile Include="IChangeDate.Facts.cs" />
+    <Compile Include="IChangeMonth`1.Facts.cs" />
+    <Compile Include="IGetNextDate.Facts.cs" />
+    <Compile Include="IGetNextMonth.Facts.cs" />
+    <Compile Include="IGetPreviousMonth.Facts.cs" />
+    <Compile Include="IGetPreviousWeekday.Facts.cs" />
+    <Compile Include="IGetNextWeekday.Facts.cs" />
+    <Compile Include="IGetPreviousDate.Facts.cs" />
+    <Compile Include="IGetTimeZone`1.Facts.cs" />
+    <Compile Include="ITimeZoneEurope.Facts.cs" />
+    <Compile Include="ITimeZoneNorthAmerica.Facts.cs" />
+    <Compile Include="Xml\IXmlSerializerNamespaces.Facts.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Xml" />
+    <Reference Include="xunit">
+      <HintPath>..\..\packages\xunit.1.9.2\lib\net20\xunit.dll</HintPath>
+    </Reference>
+    <Reference Include="xunit.extensions">
+      <HintPath>..\..\packages\xunit.extensions.1.9.2\lib\net20\xunit.extensions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt; '2.0' ">
+    <Reference Include="Cavity.Testing.Unit">
+      <HintPath>..\..\packages\Cavity.Testing.Unit.2.0.0.848\lib\$(TargetFrameworkVersionName)\Cavity.Testing.Unit.dll</HintPath>
+    </Reference>
+    <Reference Include="Moq">
+      <HintPath>..\..\packages\Moq.4.2.1409.1722\lib\$(TargetFrameworkVersionName)\Moq.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt;= '3.5' ">
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt;= '4.0' ">
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Numerics" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{02AC0AB1-A2F4-4B34-B0FA-E004EB1A60DA}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\AnyCPU.platform" />
+  <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\Tests.project" />
+  <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
+  <!--
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

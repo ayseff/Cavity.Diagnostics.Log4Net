@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data
+END
+DataFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/906/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/DataFile.cs
+END
+TsvStreamReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/TsvStreamReader.cs
+END
+IDataSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/IDataSheet.cs
+END
+Tsv.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/Tsv.cs
+END
+CsvDataSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/888/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/CsvDataSheet.cs
+END
+ITransformData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/ITransformData.cs
+END
+JaggedCsvReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/JaggedCsvReader.cs
+END
+CsvDataFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/888/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/CsvDataFile.cs
+END
+ShardByValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/ShardByValue.cs
+END
+CsvStreamReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/CsvStreamReader.cs
+END
+Csv.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/Csv.cs
+END
+DataShard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/DataShard.cs
+END
+Csv.String.ExtensionMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/936/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/Csv.String.ExtensionMethods.cs
+END
+TsvDataSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/889/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/TsvDataSheet.cs
+END
+ITransformData`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/ITransformData%601.cs
+END
+DataSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/DataSheet.cs
+END
+TsvDataFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/889/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/TsvDataFile.cs
+END
+IIdentifyShard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/888/trunk/src/Cavity%20Data/Class%20Libraries/Data/Data/IIdentifyShard.cs
+END

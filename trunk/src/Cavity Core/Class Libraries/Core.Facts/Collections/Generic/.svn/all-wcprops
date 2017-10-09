@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Collections/Generic
+END
+Matrix`1.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Collections/Generic/Matrix%601.Facts.cs
+END
+MultitonCollection`1.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Collections/Generic/MultitonCollection%601.Facts.cs
+END
+Tree`1.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Collections/Generic/Tree%601.Facts.cs
+END
+XmlSerializableCollectionItem.Test.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/909/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Collections/Generic/XmlSerializableCollectionItem.Test.cs
+END
+XmlSerializableCollection.Test.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/909/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Collections/Generic/XmlSerializableCollection.Test.cs
+END
+XmlSerializableCollection`1.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Collections/Generic/XmlSerializableCollection%601.Facts.cs
+END

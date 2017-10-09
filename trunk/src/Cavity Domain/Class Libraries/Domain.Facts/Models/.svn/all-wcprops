@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Models
+END
+BritishTelephone.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Models/BritishTelephone.Facts.cs
+END
+Coordinates.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Models/Coordinates.Facts.cs
+END
+Currency.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Models/Currency.Facts.cs
+END
+BritishTelephoneNumberPlanItem.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/957/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Models/BritishTelephoneNumberPlanItem.Facts.cs
+END
+BritishTelephoneNumberPlan.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Models/BritishTelephoneNumberPlan.Facts.cs
+END
+LexicalMatch.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Models/LexicalMatch.Facts.cs
+END
+LexicalItem.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Models/LexicalItem.Facts.cs
+END
+Lexicon.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Models/Lexicon.Facts.cs
+END
+BritishTelephoneNumberLength.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Models/BritishTelephoneNumberLength.Facts.cs
+END
+Telephone.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Models/Telephone.Facts.cs
+END
+Lexicon.String.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Models/Lexicon.String.ExtensionMethods.Facts.cs
+END
+Money.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Models/Money.Facts.cs
+END

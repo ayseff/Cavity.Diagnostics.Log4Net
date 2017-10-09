@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/975/trunk/src/Cavity%20Caching/.nuget
+END
+NuGet.targets
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/975/trunk/src/Cavity%20Caching/.nuget/NuGet.targets
+END
+Cavity Caching (Memory).nuspec
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/975/trunk/src/Cavity%20Caching/.nuget/Cavity%20Caching%20(Memory).nuspec
+END
+NuGet.exe
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/975/trunk/src/Cavity%20Caching/.nuget/NuGet.exe
+END
+Cavity Caching Abstractions.nuspec
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/975/trunk/src/Cavity%20Caching/.nuget/Cavity%20Caching%20Abstractions.nuspec
+END
+NuGet.Config
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/823/trunk/src/Cavity%20Caching/.nuget/NuGet.Config
+END
+Cavity Caching (Web).nuspec
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/975/trunk/src/Cavity%20Caching/.nuget/Cavity%20Caching%20(Web).nuspec
+END

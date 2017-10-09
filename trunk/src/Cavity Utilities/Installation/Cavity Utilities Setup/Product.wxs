@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <?define UpgradeCode="{fdbbf990-3f9b-4851-bf48-ca10fa4cca7e}"?>
+  <Product Id="*" Name="Cavity Utilities" Language="1033" Version="2.0.0.974" Manufacturer="Alan Dean" UpgradeCode="$(var.UpgradeCode)">
+    <Package InstallerVersion="200" InstallScope="perMachine" InstallPrivileges="elevated" Compressed="yes" Description="Installs the Cavity Utilities." />
+    <Media Id="1" Cabinet="media1.cab" EmbedCab="yes" />
+    <MajorUpgrade AllowSameVersionUpgrades="yes" DowngradeErrorMessage="A more recent version of [ProductName] is already installed. Setup will now exit." />
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ProgramFilesFolder">
+        <Directory Id="Company" Name="Cavity">
+          <Directory Id="INSTALLLOCATION" Name="Utilities">
+            <Component Id="Utilities" Guid="00527092-32fd-4136-a6ed-716eba7e0890">
+              <RegistryValue Root="HKLM" Key="Software\Cavity\Utilities" Type="string" Value="Installed" KeyPath="yes" />
+              <File Id="CrlfApp" Name="CRLF.exe" Source="$(var.CRLF.TargetDir)\CRLF.exe" />
+              <File Id="CrlfAppConfig" Name="CRLF.exe.config" Source="$(var.CRLF.TargetDir)\CRLF.exe.config" />
+              <File Id="CrlfLog4NetConfig" Name="log4net.crlf.config" Source="$(var.CRLF.TargetDir)\log4net.crlf.config" />
+              <File Id="DataApp" Name="DATA.exe" Source="$(var.DATA.TargetDir)\DATA.exe" />
+              <File Id="DataAppConfig" Name="DATA.exe.config" Source="$(var.DATA.TargetDir)\DATA.exe.config" />
+              <File Id="DataLog4NetConfig" Name="log4net.data.config" Source="$(var.DATA.TargetDir)\log4net.data.config" />
+              <File Id="CavityCore" Name="Cavity.Core.dll" Source="$(var.DATA.TargetDir)\Cavity.Core.dll" />
+              <File Id="CavityData" Name="Cavity.Data.dll" Source="$(var.DATA.TargetDir)\Cavity.Data.dll" />
+              <File Id="CavityDiagnosticsLog4Net" Name="Cavity.Diagnostics.Log4Net.dll" Source="$(var.DATA.TargetDir)\Cavity.Diagnostics.Log4Net.dll" />
+              <File Id="Log4Net" Name="log4net.dll" Source="$(var.DATA.TargetDir)\log4net.dll" />
+            </Component>
+          </Directory>
+        </Directory>
+      </Directory>
+    </Directory>
+    <Feature Id="ProductFeature" Title="MSBuild Files" Level="1">
+      <!-- ComponentGroupRef Id="Product.Generated" / -->
+      <ComponentRef Id="Utilities" />
+    </Feature>
+  </Product>
+</Wix>

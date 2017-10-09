@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/975/trunk/src/Cavity%20Service%20Location%20(Autofac)/.nuget
+END
+NuGet.exe
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/975/trunk/src/Cavity%20Service%20Location%20(Autofac)/.nuget/NuGet.exe
+END
+Cavity Service Location for Web Applications (Autofac).nuspec
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/975/trunk/src/Cavity%20Service%20Location%20(Autofac)/.nuget/Cavity%20Service%20Location%20for%20Web%20Applications%20(Autofac).nuspec
+END
+NuGet.Config
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/774/trunk/src/Cavity%20Service%20Location%20(Autofac)/.nuget/NuGet.Config
+END
+Cavity Service Location for Console Applications (Autofac).nuspec
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/975/trunk/src/Cavity%20Service%20Location%20(Autofac)/.nuget/Cavity%20Service%20Location%20for%20Console%20Applications%20(Autofac).nuspec
+END
+NuGet.targets
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/975/trunk/src/Cavity%20Service%20Location%20(Autofac)/.nuget/NuGet.targets
+END

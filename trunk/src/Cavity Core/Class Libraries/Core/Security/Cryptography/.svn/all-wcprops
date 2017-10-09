@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/Security/Cryptography
+END
+Salt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/Security/Cryptography/Salt.cs
+END
+MD5Hash.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/Security/Cryptography/MD5Hash.cs
+END
+SecureHash.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/Security/Cryptography/SecureHash.cs
+END

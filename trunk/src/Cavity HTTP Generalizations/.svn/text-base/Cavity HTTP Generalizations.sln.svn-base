@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{CAE09A23-FA90-44B8-9EA2-284D296C30F6}"
+	ProjectSection(SolutionItems) = preProject
+		Cavity HTTP Generalizations.bundle = Cavity HTTP Generalizations.bundle
+		.nuget\Cavity HTTP Generalizations.nuspec = .nuget\Cavity HTTP Generalizations.nuspec
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Http.Generalizations", "Class Libraries\Http.Generalizations\Http.Generalizations.csproj", "{3C12CE19-B51C-4959-B581-756E59A98F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Http.Generalizations.Facts", "Class Libraries\Http.Generalizations.Facts\Http.Generalizations.Facts.csproj", "{DCF32955-EA10-4573-8C51-DE59B547E087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C12CE19-B51C-4959-B581-756E59A98F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C12CE19-B51C-4959-B581-756E59A98F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C12CE19-B51C-4959-B581-756E59A98F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C12CE19-B51C-4959-B581-756E59A98F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF32955-EA10-4573-8C51-DE59B547E087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF32955-EA10-4573-8C51-DE59B547E087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF32955-EA10-4573-8C51-DE59B547E087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF32955-EA10-4573-8C51-DE59B547E087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

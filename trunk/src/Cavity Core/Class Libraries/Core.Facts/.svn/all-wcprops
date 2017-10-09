@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/969/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts
+END
+Static`1.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Static%601.Facts.cs
+END
+IssueAttribute.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IssueAttribute.Facts.cs
+END
+Char.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Char.ExtensionMethods.Facts.cs
+END
+Percentage.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Percentage.ExtensionMethods.Facts.cs
+END
+Date.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Date.Facts.cs
+END
+Boolean.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/932/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Boolean.ExtensionMethods.Facts.cs
+END
+ComparableObject.Derived.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/389/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/ComparableObject.Derived.cs
+END
+TimeSpan.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/TimeSpan.ExtensionMethods.Facts.cs
+END
+MutableString.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/MutableString.Facts.cs
+END
+ValueObject`1.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/ValueObject%601.Facts.cs
+END
+example.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/752/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/example.txt.gz
+END
+IGetNextDate.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IGetNextDate.Facts.cs
+END
+IChangeMonth`1.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IChangeMonth%601.Facts.cs
+END
+CommentAttribute.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/CommentAttribute.Facts.cs
+END
+QuarterOfYear.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/930/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/QuarterOfYear.Facts.cs
+END
+metaphone.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/785/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/metaphone.txt
+END
+IGetPreviousMonth.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IGetPreviousMonth.Facts.cs
+END
+MonthOfYear.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/MonthOfYear.Facts.cs
+END
+IChangeDate.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IChangeDate.Facts.cs
+END
+IGetPreviousWeekday.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IGetPreviousWeekday.Facts.cs
+END
+UserStoryAttribute.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/UserStoryAttribute.Facts.cs
+END
+AlphaDecimal.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/AlphaDecimal.Facts.cs
+END
+Object.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Object.ExtensionMethods.Facts.cs
+END
+String.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/String.ExtensionMethods.Facts.cs
+END
+ValueObject`1.Derived.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/389/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/ValueObject%601.Derived.cs
+END
+Generic.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Generic.ExtensionMethods.Facts.cs
+END
+DisposableObject.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/DisposableObject.Facts.cs
+END
+TimeZones.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/TimeZones.Facts.cs
+END
+Nullable`1.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/935/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Nullable%601.ExtensionMethods.Facts.cs
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/969/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/packages.config
+END
+Serial.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Serial.Facts.cs
+END
+Characters.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Characters.Facts.cs
+END
+Temporal.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/966/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Temporal.ExtensionMethods.Facts.cs
+END
+Core.Facts.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/969/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Core.Facts.csproj
+END
+IGetPreviousDate.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IGetPreviousDate.Facts.cs
+END
+ITimeZoneEurope.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/ITimeZoneEurope.Facts.cs
+END
+Quarter.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Quarter.Facts.cs
+END
+IGetTimeZone`1.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IGetTimeZone%601.Facts.cs
+END
+Month.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Month.Facts.cs
+END
+RelativeUri.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/RelativeUri.Facts.cs
+END
+DateTime.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/DateTime.ExtensionMethods.Facts.cs
+END
+ComparableObject.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/ComparableObject.Facts.cs
+END
+IGetNextMonth.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IGetNextMonth.Facts.cs
+END
+AbsoluteUri.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/AbsoluteUri.Facts.cs
+END
+DisposableObject.Derived.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/389/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/DisposableObject.Derived.cs
+END
+DateTimePeriod.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/DateTimePeriod.Facts.cs
+END
+ITimeZoneNorthAmerica.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/ITimeZoneNorthAmerica.Facts.cs
+END
+IGetNextWeekday.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IGetNextWeekday.Facts.cs
+END
+NullObject.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/934/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/NullObject.Facts.cs
+END
+ICalculateDateTimePeriod`1.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/ICalculateDateTimePeriod%601.Facts.cs
+END

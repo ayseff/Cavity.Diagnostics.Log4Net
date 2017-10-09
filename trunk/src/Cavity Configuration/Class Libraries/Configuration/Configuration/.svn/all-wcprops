@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/967/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Configuration
+END
+Config.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/967/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Configuration/Config.cs
+END
+ConfigXml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/967/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Configuration/ConfigXml.cs
+END
+PathConfigurationSection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/967/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Configuration/PathConfigurationSection.cs
+END
+AddRemoveClearConfigurationElementCollection`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/967/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Configuration/AddRemoveClearConfigurationElementCollection%601.cs
+END
+ConfigurationProperty`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/967/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Configuration/ConfigurationProperty%601.cs
+END
+ConfigurationValidator`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/967/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Configuration/ConfigurationValidator%601.cs
+END
+Paths.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/967/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Configuration/Paths.cs
+END
+ConfigurationConverter`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/967/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Configuration/ConfigurationConverter%601.cs
+END
+NameValueConfigurationElement`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/967/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Configuration/NameValueConfigurationElement%601.cs
+END

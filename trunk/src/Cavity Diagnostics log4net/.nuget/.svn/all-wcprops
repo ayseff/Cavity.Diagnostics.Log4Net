@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/975/trunk/src/Cavity%20Diagnostics%20log4net/.nuget
+END
+Cavity Diagnostics log4net for Console Applications.nuspec
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/975/trunk/src/Cavity%20Diagnostics%20log4net/.nuget/Cavity%20Diagnostics%20log4net%20for%20Console%20Applications.nuspec
+END
+NuGet.exe
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/975/trunk/src/Cavity%20Diagnostics%20log4net/.nuget/NuGet.exe
+END
+NuGet.Config
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/774/trunk/src/Cavity%20Diagnostics%20log4net/.nuget/NuGet.Config
+END
+NuGet.targets
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/975/trunk/src/Cavity%20Diagnostics%20log4net/.nuget/NuGet.targets
+END
+Cavity Diagnostics log4net for Web Applications.nuspec
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/975/trunk/src/Cavity%20Diagnostics%20log4net/.nuget/Cavity%20Diagnostics%20log4net%20for%20Web%20Applications.nuspec
+END

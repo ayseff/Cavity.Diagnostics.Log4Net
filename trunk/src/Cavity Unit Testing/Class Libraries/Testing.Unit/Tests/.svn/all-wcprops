@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests
+END
+MemberTestBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/MemberTestBase.cs
+END
+XmlIgnoreTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/XmlIgnoreTest.cs
+END
+SealedClassTest`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/SealedClassTest%601.cs
+END
+XmlTextTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/XmlTextTest.cs
+END
+AbstractBaseClassTest`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/AbstractBaseClassTest%601.cs
+END
+XmlNamespaceDeclarationsTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/XmlNamespaceDeclarationsTest.cs
+END
+ImplementationTest`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/ImplementationTest%601.cs
+END
+ConcreteClassTest`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/ConcreteClassTest%601.cs
+END
+XmlElementTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/XmlElementTest.cs
+END
+DefaultConstructorTest`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/DefaultConstructorTest%601.cs
+END
+PropertySetterTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/PropertySetterTest.cs
+END
+PropertyTestBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/PropertyTestBase.cs
+END
+PropertyGetterTest`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/PropertyGetterTest%601.cs
+END
+BaseClassTest`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/BaseClassTest%601.cs
+END
+InterfaceTest`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/InterfaceTest%601.cs
+END
+XmlAttributeTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/XmlAttributeTest.cs
+END
+XmlRootTest`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/XmlRootTest%601.cs
+END
+XmlSerializableTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/XmlSerializableTest.cs
+END
+AttributeUsageTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/AttributeUsageTest.cs
+END
+AttributeMemberTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/AttributeMemberTest.cs
+END
+XmlArrayTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/XmlArrayTest.cs
+END
+PropertyGetterTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/PropertyGetterTest.cs
+END
+ValueTypeTest`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/ValueTypeTest%601.cs
+END
+PropertyDefaultIsNotNullTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Tests/PropertyDefaultIsNotNullTest.cs
+END

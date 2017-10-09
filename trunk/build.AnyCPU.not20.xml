@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003"
+         DefaultTargets="Rebuild"
+         ToolsVersion="4.0">
+  <ItemGroup>
+  	<Solutions Include="Cavity Domain (Royal Mail)" />
+  	<Solutions Include="Cavity Repository" />
+  	<Solutions Include="Cavity Repository (XML File System)" />
+  	<Solutions Include="Cavity Repository Testing" />
+  	<Solutions Include="Cavity Service Location (Autofac)" />
+  	<Solutions Include="Cavity Service Location (Castle Windsor)" />
+  	<Solutions Include="Cavity Service Location (StructureMap)" />
+  	<Solutions Include="Cavity Service Location (Unity)" />
+  	<Solutions Include="Cavity Unit Testing" />
+  </ItemGroup>
+  <Target Name="Rebuild">
+    <MSBuild Projects="$(MSBuildProjectDirectory)\src\%(Solutions.Identity)\%(Solutions.Identity).sln"
+             Targets="Rebuild"
+             Properties="$(MSBuildProperties);TargetFrameworkVersion=v3.5"
+             BuildInParallel="true" />
+    <MSBuild Projects="$(MSBuildProjectDirectory)\src\%(Solutions.Identity)\%(Solutions.Identity).sln"
+             Targets="Rebuild"
+             Properties="$(MSBuildProperties);TargetFrameworkVersion=v4.0"
+             BuildInParallel="true" />
+  </Target>
+</Project>

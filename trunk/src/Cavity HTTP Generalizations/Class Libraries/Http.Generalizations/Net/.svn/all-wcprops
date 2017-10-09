@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/967/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net
+END
+HttpExchange.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/736/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpExchange.cs
+END
+HttpRequestHeaders.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/817/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpRequestHeaders.cs
+END
+HttpMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/967/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpMessage.cs
+END
+HttpVersion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/967/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpVersion.cs
+END
+IHttpClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/820/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/IHttpClient.cs
+END
+HttpRequest.ExtensionMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/820/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpRequest.ExtensionMethods.cs
+END
+HttpRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/817/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpRequest.cs
+END
+HttpHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/967/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpHeader.cs
+END
+IHttpMessageHeaders.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/814/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/IHttpMessageHeaders.cs
+END
+HttpStatusLine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/967/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpStatusLine.cs
+END
+HttpResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/736/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpResponse.cs
+END
+HttpRequestLine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/967/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpRequestLine.cs
+END
+TextBody.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/736/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/TextBody.cs
+END
+HttpParameterDictionary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/967/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpParameterDictionary.cs
+END
+HttpEntityHeaders.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/817/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpEntityHeaders.cs
+END
+HttpGeneralHeaders.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/817/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpGeneralHeaders.cs
+END
+IHttpMessageBody.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/736/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/IHttpMessageBody.cs
+END
+HttpWebClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/820/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpWebClient.cs
+END
+HttpHeaderDictionary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/967/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpHeaderDictionary.cs
+END
+HttpParameter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/967/trunk/src/Cavity%20HTTP%20Generalizations/Class%20Libraries/Http.Generalizations/Net/HttpParameter.cs
+END

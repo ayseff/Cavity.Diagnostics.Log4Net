@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/662/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/Mime
+END
+IContent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/662/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/Mime/IContent.cs
+END
+IContentType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/662/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/Mime/IContentType.cs
+END
+IMediaType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/662/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/Mime/IMediaType.cs
+END

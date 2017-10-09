@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/971/trunk/src/Cavity%20Commands/Class%20Libraries/Commands
+END
+ICommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/627/trunk/src/Cavity%20Commands/Class%20Libraries/Commands/ICommand.cs
+END
+Commands.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/971/trunk/src/Cavity%20Commands/Class%20Libraries/Commands/Commands.csproj
+END
+Command.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/627/trunk/src/Cavity%20Commands/Class%20Libraries/Commands/Command.cs
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/971/trunk/src/Cavity%20Commands/Class%20Libraries/Commands/packages.config
+END

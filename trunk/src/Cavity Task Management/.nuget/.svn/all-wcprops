@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/975/trunk/src/Cavity%20Task%20Management/.nuget
+END
+NuGet.exe
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/975/trunk/src/Cavity%20Task%20Management/.nuget/NuGet.exe
+END
+NuGet.Config
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/774/trunk/src/Cavity%20Task%20Management/.nuget/NuGet.Config
+END
+NuGet.targets
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/975/trunk/src/Cavity%20Task%20Management/.nuget/NuGet.targets
+END
+Cavity Task Management.nuspec
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/975/trunk/src/Cavity%20Task%20Management/.nuget/Cavity%20Task%20Management.nuspec
+END

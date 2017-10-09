@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003"
+         DefaultTargets="Run"
+         ToolsVersion="4.0">
+  <ImportGroup>
+    <Import Project="$(MSBuildProjectDirectory)\version.xml" />
+  </ImportGroup>
+  <ImportGroup>
+    <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\MSBuild.tasks" />
+    <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\Version.xml" />
+    <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\Clean.all" />
+    <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\Test.all" />
+    <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\Bundle.all" />
+  </ImportGroup>
+  <PropertyGroup>
+    <Configuration Condition="'$(Configuration)'==''">Release</Configuration>
+    <MSBuildProperties>$(MSBuildProperties);CommandLineBuild=true;Configuration=$(Configuration)</MSBuildProperties>
+  </PropertyGroup>
+  <Target Name="Run" DependsOnTargets="Version">
+    <CallTarget Targets="Clean" />
+    <CallTarget Targets="Build" />
+    <CallTarget Targets="Test" />
+    <CallTarget Targets="Bundle" />
+    <!-- CallTarget Targets="Copy MSI" / -->
+  </Target>
+  <Target Name="Build">
+    <MSBuild Projects="$(MSBuildProjectDirectory)\build.AnyCPU.xml"
+             Targets="Rebuild"
+             Properties="$(MSBuildProperties)"
+             BuildInParallel="true" />
+    <MSBuild Projects="$(MSBuildProjectDirectory)\build.AnyCPU.not20.xml"
+             Targets="Rebuild"
+             Properties="$(MSBuildProperties)"
+             BuildInParallel="true" />
+    <MSBuild Projects="$(MSBuildProjectDirectory)\build.AnyCPU.net40.xml"
+             Targets="Rebuild"
+             Properties="$(MSBuildProperties)"
+             BuildInParallel="true" />
+    <MSBuild Projects="$(MSBuildProjectDirectory)\build.x86.net40.xml"
+             Targets="Rebuild"
+             Properties="$(MSBuildProperties)"
+             BuildInParallel="true" />
+    <MSBuild Projects="$(MSBuildProjectDirectory)\build.x64.net40.xml"
+             Targets="Rebuild"
+             Properties="$(MSBuildProperties)"
+             BuildInParallel="true" />
+  </Target>
+  <Target Name="Copy MSI">
+    <ItemGroup>
+      <MsiFiles Include="$(MSBuildProjectDirectory)\src\Cavity MSBuild\Installation\Cavity MSBuild Setup\bin\Release NET40 x86\Cavity MSBuild Extensions.msi" />
+      <MsiFiles Include="$(MSBuildProjectDirectory)\src\Cavity Task Management Service\Installation\TaskManagement.Setup\bin\Release NET40 x86\Cavity Task Management Service.msi" />
+      <MsiFiles Include="$(MSBuildProjectDirectory)\src\Cavity Task Management Service\Installation\TaskManagement.Setup\bin\Release NET40 x64\Cavity Task Management Service (x64).msi" />
+      <MsiFiles Include="$(MSBuildProjectDirectory)\src\Cavity Utilities\Console Applications\CSV\bin\Release NET40 x86\CSV.exe" />
+      <MsiFiles Include="$(MSBuildProjectDirectory)\src\Cavity Utilities\Console Applications\TSV\bin\Release NET40 x86\TSV.exe" />
+      <MsiFiles Include="$(MSBuildProjectDirectory)\src\Cavity Utilities\Installation\Cavity Utilities Setup\bin\Release NET40 x86\Cavity Utilities.msi" />
+      <MsiFiles Include="$(MSBuildProjectDirectory)\src\Cavity Visual Studio Templates\Installation\Cavity Visual Studio Templates Setup\bin\Release NET40 x86\Cavity Visual Studio Templates.msi" />
+    </ItemGroup>
+    <Copy SourceFiles="%(MsiFiles.Identity)"
+          DestinationFolder="$(MSBuildProjectDirectory)\bundles" />
+  </Target>
+</Project>

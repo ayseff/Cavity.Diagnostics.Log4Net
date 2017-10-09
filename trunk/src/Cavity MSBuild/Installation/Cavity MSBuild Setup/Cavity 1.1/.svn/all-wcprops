@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/826/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1
+END
+Code.project
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/826/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Code.project
+END
+Service.references
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Service.references
+END
+MSBuild.tasks
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/MSBuild.tasks
+END
+Version.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Version.xml
+END
+xUnit.test
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/xUnit.test
+END
+Test.all
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/826/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Test.all
+END
+MEF.references
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/MEF.references
+END
+Data.references
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Data.references
+END
+Clean.all
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Clean.all
+END
+Mvc.project
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/826/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Mvc.project
+END
+Code.ruleset
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Code.ruleset
+END
+Web.references
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Web.references
+END
+Tests.stylecop
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Tests.stylecop
+END
+Build.all
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Build.all
+END
+Wix.setup
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/826/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Wix.setup
+END
+Tests.project
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/826/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Tests.project
+END
+_.pptx
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/_.pptx
+END
+Any.include
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/826/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Any.include
+END
+Windows.references
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Windows.references
+END
+NUnit.test
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/NUnit.test
+END
+MSBuild.references
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/MSBuild.references
+END
+Bundle.all
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Bundle.all
+END
+AnyCPU.platform
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/826/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/AnyCPU.platform
+END
+Target.framework
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Target.framework
+END
+Tests.ruleset
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Tests.ruleset
+END
+Compliance.include
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/826/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Compliance.include
+END
+MixedCPU.platform
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/826/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/MixedCPU.platform
+END
+Compliance.rules
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Compliance.rules
+END
+x64.platform
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/826/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/x64.platform
+END
+Mvc.references
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/826/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Mvc.references
+END
+Any.references
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/826/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Any.references
+END
+x86.platform
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/826/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/x86.platform
+END
+Code.stylecop
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/825/trunk/src/Cavity%20MSBuild/Installation/Cavity%20MSBuild%20Setup/Cavity%201.1/Code.stylecop
+END

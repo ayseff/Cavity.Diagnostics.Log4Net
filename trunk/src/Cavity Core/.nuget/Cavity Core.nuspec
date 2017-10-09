@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Cavity.Core</id>
+    <version>2.0.0.974</version>
+    <title>Cavity Core</title>
+    <authors>Alan Dean</authors>
+    <owners />
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>http://code.google.com/p/cavity/</projectUrl>
+    <iconUrl>http://www.alan-dean.com/nuget.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The core Cavity library.</description>
+    <summary />
+    <copyright>Copyright © 2010 - 2015 Alan Dean</copyright>
+    <language />
+    <tags />
+    <releaseNotes />
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Drawing" />
+      <frameworkAssembly assemblyName="System.Numerics" targetFramework="net40" />
+      <frameworkAssembly assemblyName="System.Runtime.Serialization.Formatters.Soap" />
+      <frameworkAssembly assemblyName="System.Xml" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="lib\net20\Cavity.Core.dll" target="lib\net20\Cavity.Core.dll" />
+    <file src="lib\net35\Cavity.Core.dll" target="lib\net35\Cavity.Core.dll" />
+    <file src="lib\net40\Cavity.Core.dll" target="lib\net40\Cavity.Core.dll" />
+  </files>
+</package>

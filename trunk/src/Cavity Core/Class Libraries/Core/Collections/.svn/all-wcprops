@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/Collections
+END
+ICollection.ExtensionMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/Collections/ICollection.ExtensionMethods.cs
+END
+IList.ExtensionMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/918/trunk/src/Cavity%20Core/Class%20Libraries/Core/Collections/IList.ExtensionMethods.cs
+END
+KeyStringDictionary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/Collections/KeyStringDictionary.cs
+END
+IEnumerable.ExtensionMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/Collections/IEnumerable.ExtensionMethods.cs
+END
+IDictionary.ExtensionMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/933/trunk/src/Cavity%20Core/Class%20Libraries/Core/Collections/IDictionary.ExtensionMethods.cs
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/IO
+END
+FileSpec.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/909/trunk/src/Cavity%20Core/Class%20Libraries/Core/IO/FileSpec.cs
+END
+FileInfo.ExtensionMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/IO/FileInfo.ExtensionMethods.cs
+END
+TempDirectory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/IO/TempDirectory.cs
+END
+FileWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/791/trunk/src/Cavity%20Core/Class%20Libraries/Core/IO/FileWriter.cs
+END
+CurrentTempDirectory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/958/trunk/src/Cavity%20Core/Class%20Libraries/Core/IO/CurrentTempDirectory.cs
+END
+StreamWriterDictionary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/IO/StreamWriterDictionary.cs
+END
+DirectoryInfo.ExtensionMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/IO/DirectoryInfo.ExtensionMethods.cs
+END
+FileSystemInfo.ExtensionMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/IO/FileSystemInfo.ExtensionMethods.cs
+END
+IOrderedEnumerable`FileSystem.ExtensionMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/IO/IOrderedEnumerable%60FileSystem.ExtensionMethods.cs
+END
+EncodedStringWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/IO/EncodedStringWriter.cs
+END
+TempFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/909/trunk/src/Cavity%20Core/Class%20Libraries/Core/IO/TempFile.cs
+END
+CurrentDirectory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/909/trunk/src/Cavity%20Core/Class%20Libraries/Core/IO/CurrentDirectory.cs
+END

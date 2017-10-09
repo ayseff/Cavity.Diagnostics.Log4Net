@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/774/trunk/src/Cavity%20Service%20Location%20(Castle%20Windsor)/.nuget/content
+END
+castle.config.transform
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/774/trunk/src/Cavity%20Service%20Location%20(Castle%20Windsor)/.nuget/content/castle.config.transform
+END
+web.config.transform
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/774/trunk/src/Cavity%20Service%20Location%20(Castle%20Windsor)/.nuget/content/web.config.transform
+END
+app.config.transform
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/774/trunk/src/Cavity%20Service%20Location%20(Castle%20Windsor)/.nuget/content/app.config.transform
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net
+END
+HttpRequest.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/HttpRequest.Facts.cs
+END
+IHttp.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/IHttp.Facts.cs
+END
+StatusLine.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/StatusLine.Facts.cs
+END
+UserAgent.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/UserAgent.Facts.cs
+END
+IHttpMessage.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/IHttpMessage.Facts.cs
+END
+HttpResponse.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/HttpResponse.Facts.cs
+END
+RequestLine.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/RequestLine.Facts.cs
+END
+IHttpRequest.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/IHttpRequest.Facts.cs
+END
+HttpHeaderCollection.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/HttpHeaderCollection.Facts.cs
+END
+HttpMessage.Derived.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/663/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/HttpMessage.Derived.cs
+END
+IUserAgent.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/IUserAgent.Facts.cs
+END
+IHttpResponse.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/IHttpResponse.Facts.cs
+END
+HttpDate.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/HttpDate.Facts.cs
+END
+HttpClient.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/HttpClient.Facts.cs
+END
+Http.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/Http.Facts.cs
+END
+HttpMethod.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/HttpMethod.Facts.cs
+END
+HttpMessage.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/HttpMessage.Facts.cs
+END
+HttpVersion.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/HttpVersion.Facts.cs
+END
+IHttpClient.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/IHttpClient.Facts.cs
+END

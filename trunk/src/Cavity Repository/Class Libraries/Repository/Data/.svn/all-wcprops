@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/967/trunk/src/Cavity%20Repository/Class%20Libraries/Repository/Data
+END
+IEntity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/609/trunk/src/Cavity%20Repository/Class%20Libraries/Repository/Data/IEntity.cs
+END
+IRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/967/trunk/src/Cavity%20Repository/Class%20Libraries/Repository/Data/IRecord.cs
+END
+IRecord`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/609/trunk/src/Cavity%20Repository/Class%20Libraries/Repository/Data/IRecord%601.cs
+END
+IRepository`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/967/trunk/src/Cavity%20Repository/Class%20Libraries/Repository/Data/IRepository%601.cs
+END
+RepositoryException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/967/trunk/src/Cavity%20Repository/Class%20Libraries/Repository/Data/RepositoryException.cs
+END
+Record`1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/967/trunk/src/Cavity%20Repository/Class%20Libraries/Repository/Data/Record%601.cs
+END

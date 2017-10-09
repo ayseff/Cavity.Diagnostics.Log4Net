@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/975/trunk/src/Cavity%20Service%20Location%20(Castle%20Windsor)/.nuget
+END
+NuGet.exe
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/975/trunk/src/Cavity%20Service%20Location%20(Castle%20Windsor)/.nuget/NuGet.exe
+END
+Cavity Service Location for Web Applications (Castle Windsor).nuspec
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/975/trunk/src/Cavity%20Service%20Location%20(Castle%20Windsor)/.nuget/Cavity%20Service%20Location%20for%20Web%20Applications%20(Castle%20Windsor).nuspec
+END
+NuGet.Config
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/774/trunk/src/Cavity%20Service%20Location%20(Castle%20Windsor)/.nuget/NuGet.Config
+END
+Cavity Service Location for Console Applications (Castle Windsor).nuspec
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/975/trunk/src/Cavity%20Service%20Location%20(Castle%20Windsor)/.nuget/Cavity%20Service%20Location%20for%20Console%20Applications%20(Castle%20Windsor).nuspec
+END
+NuGet.targets
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/975/trunk/src/Cavity%20Service%20Location%20(Castle%20Windsor)/.nuget/NuGet.targets
+END

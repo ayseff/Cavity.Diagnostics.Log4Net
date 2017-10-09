@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Cavity.TestController.Website</AssemblyName>
+    <ProjectGuid>{16C24F2A-C2D3-47AE-AD6A-CE444806DD8A}</ProjectGuid>
+    <ProjectTypeGuids>{E53F8FEA-EAE0-44A6-8774-FFD645390401};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <RestorePackages>true</RestorePackages>
+    <UseIISExpress>false</UseIISExpress>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\..\</SolutionDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\CavityDiagnosticsStart.cs" />
+    <Compile Include="App_Start\CavityServiceLocationStart.cs" />
+    <Compile Include="App_Start\PrecompiledMvcViewEngineStart.cs" />
+    <Compile Include="App_Start\RazorGeneratorMvcStart.cs" />
+    <Compile Include="Controllers\DateController.cs" />
+    <Compile Include="Controllers\RootController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\log4net.cs" />
+    <Compile Include="Views\NotFound\HtmlRepresentation.generated.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HtmlRepresentation.cshtml</DependentUpon>
+    </Compile>
+    <Content Include="log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="castle.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Properties\CodeAnalysis.dictionary" />
+    <Content Include="Views\NotFound\HtmlRepresentation.cshtml">
+      <Generator>RazorGenerator</Generator>
+      <LastGenOutput>HtmlRepresentation.generated.cs</LastGenOutput>
+    </Content>
+    <Content Include="packages.config" />
+    <Content Include="Properties\CodeAnalysis.dictionary" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Global.asax" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Castle.Core">
+      <HintPath>..\..\packages\Castle.Core.3.0.0.4001\lib\net40-client\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Windsor">
+      <HintPath>..\..\packages\Castle.Windsor.3.0.0.4001\lib\net40\Castle.Windsor.dll</HintPath>
+    </Reference>
+    <Reference Include="Cavity.Configuration">
+      <HintPath>..\..\packages\Cavity.Configuration.2.0.0.848\lib\net40\Cavity.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Cavity.Core">
+      <HintPath>..\..\packages\Cavity.Core.2.0.0.848\lib\net40\Cavity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Cavity.Diagnostics.Log4Net">
+      <HintPath>..\..\packages\Cavity.Diagnostics.Log4Net.Web.1.1.0.804\lib\net40\Cavity.Diagnostics.Log4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Cavity.ServiceLocation">
+      <HintPath>..\..\packages\Cavity.ServiceLocation.2.0.0.845\lib\net40\Cavity.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Cavity.ServiceLocation.CastleWindsor">
+      <HintPath>..\..\packages\Cavity.ServiceLocation.CastleWindsor.Web.2.0.0.845\lib\net40\Cavity.ServiceLocation.CastleWindsor.dll</HintPath>
+    </Reference>
+    <Reference Include="Cavity.Web.Mvc3">
+      <HintPath>..\..\packages\Cavity.Web.Mvc3.2.0.0.848\lib\net40\Cavity.Web.Mvc3.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\..\packages\log4net.2.0.0\lib\net40-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\..\packages\CommonServiceLocator.1.0\lib\NET35\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="RazorGenerator.Mvc">
+      <HintPath>..\..\packages\RazorGenerator.Mvc.1.4.0.0\lib\net40\RazorGenerator.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Web.Mvc" />
+    <Reference Include="System.Web.WebPages" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WebActivator">
+      <HintPath>..\..\packages\WebActivator.1.5.1\lib\net40\WebActivator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt;= '3.5' ">
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt;= '4.0' ">
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Numerics" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Class Libraries\Data\Data.csproj">
+      <Project>{88F1D720-99E4-4779-AA31-0802788178BD}</Project>
+      <Name>Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Class Libraries\Domain\Domain.csproj">
+      <Project>{728634E0-7995-4D42-B1DF-BBC527E36716}</Project>
+      <Name>Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\AnyCPU.platform" />
+  <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\Mvc.project" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v12.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- 
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>14293</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
+</Project>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Globalization
+END
+TranslationException.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Globalization/TranslationException.Facts.cs
+END
+CultureInfo.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Globalization/CultureInfo.ExtensionMethods.Facts.cs
+END
+Translation`1.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Globalization/Translation%601.Facts.cs
+END
+Language.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Globalization/Language.Facts.cs
+END
+TranslationDictionary`1.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Globalization/TranslationDictionary%601.Facts.cs
+END

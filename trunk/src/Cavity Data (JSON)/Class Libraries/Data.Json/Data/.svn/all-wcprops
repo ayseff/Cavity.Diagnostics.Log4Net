@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/967/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data
+END
+JsonReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/867/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonReader.cs
+END
+JsonReaderState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/867/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonReaderState.cs
+END
+JsonNameAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/877/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonNameAttribute.cs
+END
+JsonObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/967/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonObject.cs
+END
+JsonString.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/864/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonString.cs
+END
+JsonIgnoreAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/877/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonIgnoreAttribute.cs
+END
+JsonNull.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/864/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonNull.cs
+END
+JsonValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/864/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonValue.cs
+END
+JsonWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/967/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonWriter.cs
+END
+JsonWriterState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/865/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonWriterState.cs
+END
+JsonDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/967/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonDocument.cs
+END
+JsonArray.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/867/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonArray.cs
+END
+JsonTrue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/864/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonTrue.cs
+END
+IJsonSerializable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/866/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/IJsonSerializable.cs
+END
+Json.Object.ExtensionMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/967/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/Json.Object.ExtensionMethods.cs
+END
+JsonNodeType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/967/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonNodeType.cs
+END
+JsonNumber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/878/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonNumber.cs
+END
+JsonFalse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/864/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonFalse.cs
+END
+JsonPair.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/967/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonPair.cs
+END
+JsonWriterSettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/967/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json/Data/JsonWriterSettings.cs
+END

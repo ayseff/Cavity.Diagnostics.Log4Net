@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/880/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json.Facts/Testing
+END
+SerializableCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/880/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json.Facts/Testing/SerializableCollection.cs
+END
+NullableTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/877/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json.Facts/Testing/NullableTypes.cs
+END
+FundamentalTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/873/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json.Facts/Testing/FundamentalTypes.cs
+END
+SerializableType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/878/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json.Facts/Testing/SerializableType.cs
+END
+AttributedType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/877/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json.Facts/Testing/AttributedType.cs
+END
+GenericType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/877/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json.Facts/Testing/GenericType.cs
+END

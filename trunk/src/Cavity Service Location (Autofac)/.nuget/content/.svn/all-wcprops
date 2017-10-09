@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/774/trunk/src/Cavity%20Service%20Location%20(Autofac)/.nuget/content
+END
+app.config.transform
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/774/trunk/src/Cavity%20Service%20Location%20(Autofac)/.nuget/content/app.config.transform
+END
+autofac.config.transform
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/774/trunk/src/Cavity%20Service%20Location%20(Autofac)/.nuget/content/autofac.config.transform
+END
+web.config.transform
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/774/trunk/src/Cavity%20Service%20Location%20(Autofac)/.nuget/content/web.config.transform
+END

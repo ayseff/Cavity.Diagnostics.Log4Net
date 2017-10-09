@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/975/trunk/src/Cavity%20Task%20Management%20Service/Installation/TaskManagement.Setup
+END
+TaskManagement.Setup.wixproj
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/941/trunk/src/Cavity%20Task%20Management%20Service/Installation/TaskManagement.Setup/TaskManagement.Setup.wixproj
+END
+Product.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/975/trunk/src/Cavity%20Task%20Management%20Service/Installation/TaskManagement.Setup/Product.wxs
+END
+Cavity.TaskManagement.EventLog.Messages.lib
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/747/trunk/src/Cavity%20Task%20Management%20Service/Installation/TaskManagement.Setup/Cavity.TaskManagement.EventLog.Messages.lib
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain%20(Royal%20Mail)/Class%20Libraries/Domain.RoyalMail.Facts/Models
+END
+Organization.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain%20(Royal%20Mail)/Class%20Libraries/Domain.RoyalMail.Facts/Models/Organization.Facts.cs
+END
+IUserCategory.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain%20(Royal%20Mail)/Class%20Libraries/Domain.RoyalMail.Facts/Models/IUserCategory.Facts.cs
+END
+BritishPostcode.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain%20(Royal%20Mail)/Class%20Libraries/Domain.RoyalMail.Facts/Models/BritishPostcode.Facts.cs
+END
+MarketingAddress.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain%20(Royal%20Mail)/Class%20Libraries/Domain.RoyalMail.Facts/Models/MarketingAddress.Facts.cs
+END
+LargeUserCategory.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/592/trunk/src/Cavity%20Domain%20(Royal%20Mail)/Class%20Libraries/Domain.RoyalMail.Facts/Models/LargeUserCategory.Facts.cs
+END
+PostalAddressFileEntry.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain%20(Royal%20Mail)/Class%20Libraries/Domain.RoyalMail.Facts/Models/PostalAddressFileEntry.Facts.cs
+END
+BritishAddress.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain%20(Royal%20Mail)/Class%20Libraries/Domain.RoyalMail.Facts/Models/BritishAddress.Facts.cs
+END
+NonResidentialUserCategory.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain%20(Royal%20Mail)/Class%20Libraries/Domain.RoyalMail.Facts/Models/NonResidentialUserCategory.Facts.cs
+END
+UserCategory.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain%20(Royal%20Mail)/Class%20Libraries/Domain.RoyalMail.Facts/Models/UserCategory.Facts.cs
+END
+ResidentialUserCategory.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/592/trunk/src/Cavity%20Domain%20(Royal%20Mail)/Class%20Libraries/Domain.RoyalMail.Facts/Models/ResidentialUserCategory.Facts.cs
+END
+PostalAddressFileKey.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain%20(Royal%20Mail)/Class%20Libraries/Domain.RoyalMail.Facts/Models/PostalAddressFileKey.Facts.cs
+END

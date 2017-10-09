@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/969/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit.Facts
+END
+TypeExpectations`1.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit.Facts/TypeExpectations%601.Facts.cs
+END
+PropertyExpectations`1.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit.Facts/PropertyExpectations%601.Facts.cs
+END
+UnitTestException.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit.Facts/UnitTestException.Facts.cs
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/969/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit.Facts/packages.config
+END
+Type.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit.Facts/Type.ExtensionMethods.Facts.cs
+END
+Testing.Unit.Facts.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/969/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit.Facts/Testing.Unit.Facts.csproj
+END

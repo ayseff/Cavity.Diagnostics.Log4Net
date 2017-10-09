@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Cavity.Data.Json</AssemblyName>
+    <ProjectGuid>{5742BB37-8F0C-44AA-8366-FB3F2A6EE307}</ProjectGuid>
+    <RestorePackages>true</RestorePackages>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\..\</SolutionDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Content Include="Properties\CodeAnalysis.dictionary">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt;= '4.0' ">
+    <Compile Include="Data\JsonIgnoreAttribute.cs" />
+    <Compile Include="Data\JsonNameAttribute.cs" />
+    <Compile Include="Data\Json.Object.ExtensionMethods.cs" />
+    <Compile Include="Data\JsonWriterSettings.cs" />
+    <Compile Include="Data\JsonReaderState.cs" />
+    <Compile Include="Data\JsonWriter.cs" />
+    <Compile Include="Data\JsonWriterState.cs" />
+    <Compile Include="Data\IJsonSerializable.cs" />
+    <Compile Include="Data\JsonArray.cs" />
+    <Compile Include="Data\JsonPair.cs" />
+    <Compile Include="Data\JsonObject.cs" />
+    <Compile Include="Data\JsonNumber.cs" />
+    <Compile Include="Data\JsonString.cs" />
+    <Compile Include="Data\JsonNull.cs" />
+    <Compile Include="Data\JsonTrue.cs" />
+    <Compile Include="Data\JsonFalse.cs" />
+    <Compile Include="Data\JsonValue.cs" />
+    <Compile Include="Data\JsonDocument.cs" />
+    <Compile Include="Data\JsonNodeType.cs" />
+    <Compile Include="Data\JsonReader.cs" />
+    <Compile Include="Dynamic\DynamicJson.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Cavity.Core">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\packages\Cavity.Core.2.0.0.970\lib\$(TargetFrameworkVersionName)\Cavity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt;= '3.5' ">
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt;= '4.0' ">
+    <Reference Include="System.Numerics" />
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\AnyCPU.platform" />
+  <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\Code.project" />
+  <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
+  <!-- 
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

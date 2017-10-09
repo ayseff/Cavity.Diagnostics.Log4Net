@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/Xml
+END
+IXmlSerializerNamespaces.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/388/trunk/src/Cavity%20Core/Class%20Libraries/Core/Xml/IXmlSerializerNamespaces.cs
+END
+XmlNamespace.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core/Xml/XmlNamespace.cs
+END
+XmlReader.ExtensionMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/919/trunk/src/Cavity%20Core/Class%20Libraries/Core/Xml/XmlReader.ExtensionMethods.cs
+END

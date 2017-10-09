@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/752/trunk/src/Cavity%20Task%20Management%20Abstractions/Class%20Libraries/TaskManagement.Abstractions/Threading
+END
+IManageTasks.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/689/trunk/src/Cavity%20Task%20Management%20Abstractions/Class%20Libraries/TaskManagement.Abstractions/Threading/IManageTasks.cs
+END
+ITask.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/752/trunk/src/Cavity%20Task%20Management%20Abstractions/Class%20Libraries/TaskManagement.Abstractions/Threading/ITask.cs
+END

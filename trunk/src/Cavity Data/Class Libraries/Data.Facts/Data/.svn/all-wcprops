@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data
+END
+Tsv.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/Tsv.Facts.cs
+END
+ITransformData.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/ITransformData.Facts.cs
+END
+CsvDataSheet.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/CsvDataSheet.Facts.cs
+END
+TestAdditionTransformer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/TestAdditionTransformer.cs
+END
+JaggedCsvReader.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/JaggedCsvReader.Facts.cs
+END
+DataSheet.Derived.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/DataSheet.Derived.cs
+END
+CsvDataFile.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/CsvDataFile.Facts.cs
+END
+ShardByValue.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/ShardByValue.Facts.cs
+END
+CsvStreamReader.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/CsvStreamReader.Facts.cs
+END
+Csv.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/Csv.Facts.cs
+END
+DataFile.Derived.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/906/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/DataFile.Derived.cs
+END
+DataShard.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/DataShard.Facts.cs
+END
+TestDataEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/TestDataEntry.cs
+END
+TsvDataSheet.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/TsvDataSheet.Facts.cs
+END
+Csv.String.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/Csv.String.ExtensionMethods.Facts.cs
+END
+ITransformData`1.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/ITransformData%601.Facts.cs
+END
+TestEntryFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/TestEntryFile.cs
+END
+DataSheet.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/DataSheet.Facts.cs
+END
+TsvDataFile.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/TsvDataFile.Facts.cs
+END
+IIdentifyShard.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/IIdentifyShard.Facts.cs
+END
+DataFile.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/DataFile.Facts.cs
+END
+TestConcatenationTransformer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/TestConcatenationTransformer.cs
+END
+IDataSheet.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/IDataSheet.Facts.cs
+END
+TsvStreamReader.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Facts/Data/TsvStreamReader.Facts.cs
+END

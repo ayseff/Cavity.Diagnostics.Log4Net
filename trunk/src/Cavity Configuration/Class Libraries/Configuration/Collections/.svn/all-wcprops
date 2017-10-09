@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/967/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Collections
+END
+FileItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/923/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Collections/FileItem.cs
+END
+DirectoryCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/967/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Collections/DirectoryCollection.cs
+END
+StringList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/967/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Collections/StringList.cs
+END
+DirectoryItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/923/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Collections/DirectoryItem.cs
+END
+FileCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/967/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Collections/FileCollection.cs
+END
+PathItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/923/trunk/src/Cavity%20Configuration/Class%20Libraries/Configuration/Collections/PathItem.cs
+END

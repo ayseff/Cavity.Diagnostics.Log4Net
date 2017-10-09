@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/849/trunk/src/Cavity%20Task%20Management%20Service/Windows%20Services/TaskManagement.Service
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/789/trunk/src/Cavity%20Task%20Management%20Service/Windows%20Services/TaskManagement.Service/Program.cs
+END
+Cavity.TaskManagement.dll.config
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/754/trunk/src/Cavity%20Task%20Management%20Service/Windows%20Services/TaskManagement.Service/Cavity.TaskManagement.dll.config
+END
+TaskManagement.Service.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/849/trunk/src/Cavity%20Task%20Management%20Service/Windows%20Services/TaskManagement.Service/TaskManagement.Service.csproj
+END
+castle.config
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/771/trunk/src/Cavity%20Task%20Management%20Service/Windows%20Services/TaskManagement.Service/castle.config
+END
+TaskManagementService.resx
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/696/trunk/src/Cavity%20Task%20Management%20Service/Windows%20Services/TaskManagement.Service/TaskManagementService.resx
+END
+log4net.config
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/846/trunk/src/Cavity%20Task%20Management%20Service/Windows%20Services/TaskManagement.Service/log4net.config
+END
+ServiceInstallation.resx
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/696/trunk/src/Cavity%20Task%20Management%20Service/Windows%20Services/TaskManagement.Service/ServiceInstallation.resx
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/849/trunk/src/Cavity%20Task%20Management%20Service/Windows%20Services/TaskManagement.Service/packages.config
+END
+TaskManagementService.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/696/trunk/src/Cavity%20Task%20Management%20Service/Windows%20Services/TaskManagement.Service/TaskManagementService.Designer.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/846/trunk/src/Cavity%20Task%20Management%20Service/Windows%20Services/TaskManagement.Service/app.config
+END
+TaskManagementService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/789/trunk/src/Cavity%20Task%20Management%20Service/Windows%20Services/TaskManagement.Service/TaskManagementService.cs
+END
+ServiceInstallation.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/696/trunk/src/Cavity%20Task%20Management%20Service/Windows%20Services/TaskManagement.Service/ServiceInstallation.Designer.cs
+END
+ServiceInstallation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/696/trunk/src/Cavity%20Task%20Management%20Service/Windows%20Services/TaskManagement.Service/ServiceInstallation.cs
+END

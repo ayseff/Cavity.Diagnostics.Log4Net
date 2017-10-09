@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Fluent
+END
+ITestClassConstruction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/371/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Fluent/ITestClassConstruction.cs
+END
+ITestType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/967/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Fluent/ITestType.cs
+END
+ITestClassSealed.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/371/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Fluent/ITestClassSealed.cs
+END
+ITestExpectation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/371/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Fluent/ITestExpectation.cs
+END
+ITestClassStyle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/371/trunk/src/Cavity%20Unit%20Testing/Class%20Libraries/Testing.Unit/Fluent/ITestClassStyle.cs
+END

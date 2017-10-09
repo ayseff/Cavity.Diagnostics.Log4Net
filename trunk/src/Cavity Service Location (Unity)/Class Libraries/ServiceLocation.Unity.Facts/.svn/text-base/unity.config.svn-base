@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unity>
+  <typeAliases>
+    <typeAlias alias="singleton"
+               type="Microsoft.Practices.Unity.ContainerControlledLifetimeManager, Microsoft.Practices.Unity" />
+    <typeAlias alias="ITest"
+               type="Cavity.Examples.ITest, Cavity.ServiceLocation.Unity.Facts" />
+    <typeAlias alias="Tester"
+               type="Cavity.Examples.Tester, Cavity.ServiceLocation.Unity.Facts" />
+  </typeAliases>
+  <containers>
+    <container name="container">
+      <type type="ITest"
+            mapTo="Tester">
+        <lifetime type="singleton" />
+        <constructor>
+          <param name="expected">
+            <value value="value" />
+          </param>
+        </constructor>
+      </type>
+    </container>
+  </containers>
+</unity>

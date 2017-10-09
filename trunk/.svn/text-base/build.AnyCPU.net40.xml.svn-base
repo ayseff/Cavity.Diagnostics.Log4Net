@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003"
+         DefaultTargets="Rebuild"
+         ToolsVersion="4.0">
+  <ItemGroup>
+  	<Solutions Include="Cavity Commands Transactions" />
+  	<!-- Solutions Include="Cavity Examples Website" / -->
+  	<Solutions Include="Cavity Data (Excel 97-2003)" />
+  	<Solutions Include="Cavity Data (Excel Open XML)" />
+  	<Solutions Include="Cavity FTP" />
+  	<Solutions Include="Cavity MSBuild (Domain)" />
+  	<Solutions Include="Cavity Task Management" />
+  	<Solutions Include="Cavity Task Management Abstractions" />
+  	<!-- Solutions Include="Cavity Task Management Service" / -->
+  	<Solutions Include="Cavity Test Controller Abstractions" />
+  	<!-- Solutions Include="Cavity Test Controller" / -->
+  	<Solutions Include="Cavity Web" />
+  	<Solutions Include="Cavity Web (ASP.NET MVC3)" />
+  </ItemGroup>
+  <Target Name="Rebuild">
+    <MSBuild Projects="$(MSBuildProjectDirectory)\src\%(Solutions.Identity)\%(Solutions.Identity).sln"
+             Targets="Rebuild"
+             Properties="$(MSBuildProperties);TargetFrameworkVersion=v4.0"
+             BuildInParallel="true" />
+  </Target>
+</Project>

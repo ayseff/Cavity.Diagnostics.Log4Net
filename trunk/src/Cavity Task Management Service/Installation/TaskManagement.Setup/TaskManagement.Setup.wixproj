@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\Wix.setup" />
+  <PropertyGroup>
+    <ProjectGuid>{457910bd-90a1-420d-927a-a22091ccb8ad}</ProjectGuid>
+    <OutputName Condition=" '$(Platform)' == 'x64' ">Cavity Task Management Service (x64)</OutputName>
+    <OutputName Condition=" '$(OutputName)' == '' ">Cavity Task Management Service</OutputName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Product.wxs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Windows Services\TaskManagement.Service\TaskManagement.Service.csproj">
+      <Name>TaskManagement.Service</Name>
+      <Project>{6e1feb48-28de-49e6-83bd-08d272f8c43e}</Project>
+      <Private>True</Private>
+      <DoNotHarvest>True</DoNotHarvest>
+      <RefProjectOutputGroups>Binaries;Content;Satellites</RefProjectOutputGroups>
+      <RefTargetDir>INSTALLLOCATION</RefTargetDir>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Cavity.TaskManagement.EventLog.Messages.lib" />
+  </ItemGroup>
+  <Import Project="$(WixTargetsPath)" />
+  <!--
+	<Target Name="BeforeBuild">
+	</Target>
+	<Target Name="AfterBuild">
+	</Target>
+	-->
+</Project>

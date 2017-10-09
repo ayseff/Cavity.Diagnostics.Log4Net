@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Collections
+END
+LexicalCollection.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Collections/LexicalCollection.Facts.cs
+END
+LevenshteinComparer.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Collections/LevenshteinComparer.Facts.cs
+END
+SoundexComparer.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Collections/SoundexComparer.Facts.cs
+END
+INormalityComparer.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Collections/INormalityComparer.Facts.cs
+END
+UnderscoreComparer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/789/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Collections/UnderscoreComparer.cs
+END
+CaverphoneComparer.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Collections/CaverphoneComparer.Facts.cs
+END
+NormalityComparer.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Collections/NormalityComparer.Facts.cs
+END
+SynonymCollection.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Collections/SynonymCollection.Facts.cs
+END
+MetaphoneComparer.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain.Facts/Collections/MetaphoneComparer.Facts.cs
+END

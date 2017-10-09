@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/Mime
+END
+IContent.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/Mime/IContent.Facts.cs
+END
+IContentType.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/Mime/IContentType.Facts.cs
+END
+IMediaType.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client.Facts/Net/Mime/IMediaType.Facts.cs
+END

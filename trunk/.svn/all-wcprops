@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/977/trunk
+END
+todo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/846/trunk/todo.txt
+END
+version.xml
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/975/trunk/version.xml
+END
+build.AnyCPU.net40.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/972/trunk/build.AnyCPU.net40.xml
+END
+clean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/815/trunk/clean.bat
+END
+deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/714/trunk/deploy.xml
+END
+build.AnyCPU.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/972/trunk/build.AnyCPU.xml
+END
+build.AnyCPU.not20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/970/trunk/build.AnyCPU.not20.xml
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/709/trunk/readme
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/967/trunk/build.xml
+END
+zip.xml
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/686/trunk/zip.xml
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/795/trunk/build.bat
+END
+zip.bat
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/721/trunk/zip.bat
+END
+build.x64.net40.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/967/trunk/build.x64.net40.xml
+END
+build.x86.net40.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/967/trunk/build.x86.net40.xml
+END
+Global ignore pattern.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/841/trunk/Global%20ignore%20pattern.txt
+END
+clean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/826/trunk/clean.xml
+END

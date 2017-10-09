@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{A0B9E24F-CED7-4CDB-8B0A-AB98CB7E4659}"
+	ProjectSection(SolutionItems) = preProject
+		Cavity Core.bundle = Cavity Core.bundle
+		.nuget\Cavity Core.nuspec = .nuget\Cavity Core.nuspec
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Class Libraries\Core\Core.csproj", "{02AC0AB1-A2F4-4B34-B0FA-E004EB1A60DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Facts", "Class Libraries\Core.Facts\Core.Facts.csproj", "{E912C668-ED80-471E-9E57-BDB10394E47B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02AC0AB1-A2F4-4B34-B0FA-E004EB1A60DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02AC0AB1-A2F4-4B34-B0FA-E004EB1A60DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02AC0AB1-A2F4-4B34-B0FA-E004EB1A60DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02AC0AB1-A2F4-4B34-B0FA-E004EB1A60DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E912C668-ED80-471E-9E57-BDB10394E47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E912C668-ED80-471E-9E57-BDB10394E47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E912C668-ED80-471E-9E57-BDB10394E47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E912C668-ED80-471E-9E57-BDB10394E47B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

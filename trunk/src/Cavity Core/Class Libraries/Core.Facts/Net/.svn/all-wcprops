@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Net
+END
+CacheControl.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/389/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Net/CacheControl.Facts.cs
+END
+EntityTag.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Net/EntityTag.Facts.cs
+END
+Quality.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Net/Quality.Facts.cs
+END
+Token.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/Net/Token.Facts.cs
+END

@@ -1,0 +1,228 @@
+10
+
+dir
+977
+http://cavity.googlecode.com/svn/trunk/src
+http://cavity.googlecode.com/svn
+
+
+
+2014-12-14T17:52:51.024871Z
+977
+alan.dean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+67bafd89-7b61-e115-2f88-658d790e9269
+
+Cavity Data (Excel 97-2003)
+dir
+
+Cavity Unit Testing
+dir
+
+Cavity Service Location (Autofac)
+dir
+
+Cavity Repository Testing
+dir
+
+Cavity Web
+dir
+
+Cavity Data (Excel Open XML)
+dir
+
+Cavity HTTP Client
+dir
+
+Cavity Web (ASP.NET MVC3)
+dir
+
+Cavity Task Management Service
+dir
+
+Settings.StyleCop
+file
+
+
+
+
+2016-03-21T21:51:54.763291Z
+4010e01aefb205efd6490c89596bf6d9
+2014-11-24T21:38:26.791349Z
+967
+alan.dean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4149
+
+Cavity Test Controller
+dir
+
+Cavity Data (JSON)
+dir
+
+Cavity Repository (XML File System)
+dir
+
+Cavity Version Control
+dir
+
+Cavity Service Location
+dir
+
+Cavity Caching
+dir
+
+Cavity HTTP Generalizations
+dir
+
+Cavity Task Management
+dir
+
+Cavity MSBuild
+dir
+
+Cavity Test Controller Abstractions
+dir
+
+Cavity Commands
+dir
+
+Cavity Examples Website
+dir
+
+Cavity Domain (Royal Mail)
+dir
+
+Cavity Diagnostics log4net
+dir
+
+Cavity Domain
+dir
+
+Cavity MSBuild (Domain)
+dir
+
+Cavity.snk
+file
+
+
+
+
+2016-03-21T21:51:54.763291Z
+9beff4c7617200817f795e98f51314ad
+2012-04-16T22:18:26.171857Z
+805
+alan.dean
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+596
+
+Cavity Visual Studio Templates
+dir
+
+Cavity Utilities
+dir
+
+Cavity Data (XML)
+dir
+
+Cavity Task Management Abstractions
+dir
+
+Cavity Service Location (Castle Windsor)
+dir
+
+Cavity HTTP Testing
+dir
+
+Cavity Repository
+dir
+
+Cavity Data (HTML)
+dir
+
+Cavity Commands (File System)
+dir
+
+Cavity Data (TSV)
+dir
+
+Cavity Core
+dir
+
+Cavity FTP
+dir
+
+Cavity Service Location (StructureMap)
+dir
+
+Cavity Commands Transactions
+dir
+
+Cavity Service Location (Unity)
+dir
+
+Cavity Data (ACE)
+dir
+
+Cavity Data (CSV)
+dir
+
+Cavity Configuration
+dir
+
+Cavity Data
+dir
+

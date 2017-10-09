@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003"
+         DefaultTargets="Rebuild"
+         ToolsVersion="4.0">
+  <ItemGroup>
+  	<!-- Solutions Include="Cavity Task Management Service" / -->
+  </ItemGroup>
+  <Target Name="Rebuild">
+    <!-- MSBuild Projects="$(MSBuildProjectDirectory)\src\%(Solutions.Identity)\%(Solutions.Identity).sln"
+             Targets="Rebuild"
+             Properties="$(MSBuildProperties);TargetFrameworkVersion=v4.0;Platform=x64"
+             BuildInParallel="true" / -->
+  </Target>
+</Project>

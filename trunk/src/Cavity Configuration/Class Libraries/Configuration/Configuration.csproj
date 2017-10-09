@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Cavity.Configuration</AssemblyName>
+    <ProjectGuid>{0069A77A-0500-413A-8253-35018ED877DD}</ProjectGuid>
+    <RestorePackages>true</RestorePackages>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\..\</SolutionDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Collections\FileCollection.cs" />
+    <Compile Include="Collections\DirectoryCollection.cs" />
+    <Compile Include="Collections\DirectoryItem.cs" />
+    <Compile Include="Collections\FileItem.cs" />
+    <Compile Include="Collections\PathItem.cs" />
+    <Compile Include="Configuration\Paths.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Content Include="Properties\CodeAnalysis.dictionary" />
+    <Compile Include="Collections\StringList.cs" />
+    <Compile Include="Configuration\AddRemoveClearConfigurationElementCollection`1.cs" />
+    <Compile Include="Configuration\Config.cs" />
+    <Compile Include="Configuration\ConfigurationConverter`1.cs" />
+    <Compile Include="Configuration\ConfigurationProperty`1.cs" />
+    <Compile Include="Configuration\ConfigurationValidator`1.cs" />
+    <Compile Include="Configuration\ConfigXml.cs" />
+    <Compile Include="Configuration\NameValueConfigurationElement`1.cs" />
+    <Compile Include="Configuration\PathConfigurationSection.cs" />
+    <Compile Include="Diagnostics\Tracing.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Cavity.Core">
+      <HintPath>..\..\packages\Cavity.Core.2.0.0.970\lib\$(TargetFrameworkVersionName)\Cavity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt;= '3.5' ">
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt;= '4.0' ">
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Numerics" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\AnyCPU.platform" />
+  <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\Code.project" />
+  <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
+  <!--
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

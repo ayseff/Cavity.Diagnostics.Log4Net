@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/975/trunk/src/Cavity%20Utilities/.nuget
+END
+NuGet.exe
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/975/trunk/src/Cavity%20Utilities/.nuget/NuGet.exe
+END
+NuGet.Config
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/841/trunk/src/Cavity%20Utilities/.nuget/NuGet.Config
+END
+NuGet.targets
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/975/trunk/src/Cavity%20Utilities/.nuget/NuGet.targets
+END

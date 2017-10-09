@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/967/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json.Xunit/Data
+END
+JsonFileAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/967/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json.Xunit/Data/JsonFileAttribute.cs
+END
+JsonUriAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/967/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json.Xunit/Data/JsonUriAttribute.cs
+END
+JsonDataAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/967/trunk/src/Cavity%20Data%20(JSON)/Class%20Libraries/Data.Json.Xunit/Data/JsonDataAttribute.cs
+END

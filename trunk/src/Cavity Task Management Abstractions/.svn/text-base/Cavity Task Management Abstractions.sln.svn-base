@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{9BB0B1CC-266A-4F09-AD06-82D2705FDEF4}"
+	ProjectSection(SolutionItems) = preProject
+		Cavity Task Management Abstractions.bundle = Cavity Task Management Abstractions.bundle
+		.nuget\Cavity Task Management Abstractions.nuspec = .nuget\Cavity Task Management Abstractions.nuspec
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagement.Abstractions", "Class Libraries\TaskManagement.Abstractions\TaskManagement.Abstractions.csproj", "{81E4953D-9825-4B67-B9D1-D0B8BA1B3A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagement.Abstractions.Facts", "Class Libraries\TaskManagement.Abstractions.Facts\TaskManagement.Abstractions.Facts.csproj", "{D2E25F1C-1AAF-44C8-B48C-3DD1344014DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E4953D-9825-4B67-B9D1-D0B8BA1B3A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E4953D-9825-4B67-B9D1-D0B8BA1B3A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E4953D-9825-4B67-B9D1-D0B8BA1B3A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E4953D-9825-4B67-B9D1-D0B8BA1B3A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E25F1C-1AAF-44C8-B48C-3DD1344014DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E25F1C-1AAF-44C8-B48C-3DD1344014DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E25F1C-1AAF-44C8-B48C-3DD1344014DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E25F1C-1AAF-44C8-B48C-3DD1344014DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/971/trunk/src/Cavity%20Version%20Control/Console%20Applications/Version.Facts
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/971/trunk/src/Cavity%20Version%20Control/Console%20Applications/Version.Facts/packages.config
+END
+Version.Facts.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/971/trunk/src/Cavity%20Version%20Control/Console%20Applications/Version.Facts/Version.Facts.csproj
+END
+CommandLine.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/967/trunk/src/Cavity%20Version%20Control/Console%20Applications/Version.Facts/CommandLine.Facts.cs
+END
+Program.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/967/trunk/src/Cavity%20Version%20Control/Console%20Applications/Version.Facts/Program.Facts.cs
+END

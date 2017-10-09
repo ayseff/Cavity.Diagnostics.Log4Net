@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Cavity.ServiceLocation.Autofac.Web</id>
+    <version>2.0.0.974</version>
+    <title>Cavity Service Location for Web Applications (Autofac)</title>
+    <authors>Alan Dean</authors>
+    <owners />
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>http://code.google.com/p/cavity/</projectUrl>
+    <iconUrl>http://www.alan-dean.com/nuget.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides an Autofac XML configuration of the common service locator for web applications.</description>
+    <summary />
+    <copyright>Copyright © 2010 - 2015 Alan Dean</copyright>
+    <language />
+    <tags>IoC</tags>
+    <releaseNotes />
+    <dependencies>
+      <dependency id="Autofac" version="2.6.3.862" />
+      <dependency id="Cavity.Configuration" version="2.0.0.848" />
+      <dependency id="Cavity.ServiceLocation" version="2.0.0.845" />
+      <dependency id="CommonServiceLocator" version="1.3" />
+      <dependency id="WebActivator" version="1.5" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="content\App_Start\CavityServiceLocationStart.cs.pp" target="content\App_Start\CavityServiceLocationStart.cs.pp" />
+    <file src="content\web.config.transform" target="content\web.config.transform" />
+    <file src="content\autofac.config.transform" target="content\autofac.config.transform" />
+    <file src="lib\net35\Cavity.ServiceLocation.Autofac.dll" target="lib\net35\Cavity.ServiceLocation.Autofac.dll" />
+    <file src="lib\net40\Cavity.ServiceLocation.Autofac.dll" target="lib\net40\Cavity.ServiceLocation.Autofac.dll" />
+    <file src="tools\Web.Install.ps1" target="tools\Install.ps1" />
+  </files>
+</package>

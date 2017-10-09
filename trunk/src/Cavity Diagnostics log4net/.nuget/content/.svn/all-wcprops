@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/846/trunk/src/Cavity%20Diagnostics%20log4net/.nuget/content
+END
+log4net.config.transform
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/846/trunk/src/Cavity%20Diagnostics%20log4net/.nuget/content/log4net.config.transform
+END
+web.config.transform
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/846/trunk/src/Cavity%20Diagnostics%20log4net/.nuget/content/web.config.transform
+END
+app.config.transform
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/846/trunk/src/Cavity%20Diagnostics%20log4net/.nuget/content/app.config.transform
+END

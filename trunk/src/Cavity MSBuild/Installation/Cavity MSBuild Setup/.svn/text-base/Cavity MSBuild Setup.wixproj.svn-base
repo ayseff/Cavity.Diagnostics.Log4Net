@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\Wix.setup" />
+  <PropertyGroup>
+    <ProjectGuid>{75017f3c-e87d-49d3-9c65-9f094c1cc7ac}</ProjectGuid>
+    <OutputName>Cavity MSBuild Extensions</OutputName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Product.wxs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Cavity 1.1" />
+    <Folder Include="Cavity 1.1\net40\" />
+    <Folder Include="Cavity 2.0" />
+    <Folder Include="NUnit 2.6\" />
+    <Folder Include="NUnit 2.6\lib\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Cavity 1.1\Any.include" />
+    <Content Include="Cavity 1.1\Any.references" />
+    <Content Include="Cavity 1.1\AnyCPU.platform" />
+    <Content Include="Cavity 1.1\Build.all" />
+    <Content Include="Cavity 1.1\Bundle.all" />
+    <Content Include="Cavity 1.1\Clean.all" />
+    <Content Include="Cavity 1.1\Code.project" />
+    <Content Include="Cavity 1.1\Code.ruleset" />
+    <Content Include="Cavity 1.1\Code.stylecop" />
+    <Content Include="Cavity 1.1\Compliance.include" />
+    <Content Include="Cavity 1.1\Compliance.rules" />
+    <Content Include="Cavity 1.1\Test.all" />
+    <Content Include="Cavity 1.1\NUnit.test" />
+    <Content Include="Cavity 1.1\MSBuild.tasks" />
+    <Content Include="Cavity 1.1\Data.references" />
+    <Content Include="Cavity 1.1\Tests.project" />
+    <Content Include="Cavity 1.1\Tests.ruleset" />
+    <Content Include="Cavity 1.1\Tests.stylecop" />
+    <Content Include="Cavity 1.1\xUnit.test" />
+    <Content Include="Cavity 1.1\MEF.references" />
+    <Content Include="Cavity 1.1\MixedCPU.platform" />
+    <Content Include="Cavity 1.1\MSBuild.references" />
+    <Content Include="Cavity 1.1\Mvc.project" />
+    <Content Include="Cavity 1.1\Mvc.references" />
+    <Content Include="Cavity 1.1\Service.references" />
+    <Content Include="Cavity 1.1\Target.framework" />
+    <Content Include="Cavity 1.1\net40\Cavity.MSBuild.Compliance.dll" />
+    <Content Include="Cavity 1.1\net40\Cavity.MSBuild.Compliance.targets" />
+    <Content Include="Cavity 1.1\Version.xml" />
+    <Content Include="Cavity 1.1\Web.references" />
+    <Content Include="Cavity 1.1\Windows.references" />
+    <Content Include="Cavity 1.1\WiX.setup" />
+    <Content Include="Cavity 1.1\x64.platform" />
+    <Content Include="Cavity 1.1\x86.platform" />
+    <Content Include="Cavity 2.0\Any.include" />
+    <Content Include="Cavity 2.0\AnyCPU.platform" />
+    <Content Include="Cavity 2.0\Build.all" />
+    <Content Include="Cavity 2.0\Bundle.all" />
+    <Content Include="Cavity 2.0\Clean.all" />
+    <Content Include="Cavity 2.0\Code.project" />
+    <Content Include="Cavity 2.0\Code.ruleset" />
+    <Content Include="Cavity 2.0\Code.stylecop" />
+    <Content Include="Cavity 2.0\Compliance.include" />
+    <Content Include="Cavity 2.0\Compliance.rules" />
+    <Content Include="Cavity 2.0\MixedCPU.platform" />
+    <Content Include="Cavity 2.0\MSBuild.tasks" />
+    <Content Include="Cavity 2.0\Mvc.project" />
+    <Content Include="Cavity 2.0\NUnit.test" />
+    <Content Include="Cavity 2.0\Target.framework" />
+    <Content Include="Cavity 2.0\Test.all" />
+    <Content Include="Cavity 2.0\Tests.project" />
+    <Content Include="Cavity 2.0\Tests.ruleset" />
+    <Content Include="Cavity 2.0\Tests.stylecop" />
+    <Content Include="Cavity 2.0\Version.xml" />
+    <Content Include="Cavity 2.0\Wix.setup" />
+    <Content Include="Cavity 2.0\x64.platform" />
+    <Content Include="Cavity 2.0\x86.platform" />
+    <Content Include="Cavity 2.0\xUnit.test" />
+    <Content Include="NUnit 2.6\lib\nunit-console-runner.dll" />
+    <Content Include="NUnit 2.6\lib\nunit.core.dll" />
+    <Content Include="NUnit 2.6\lib\nunit.core.interfaces.dll" />
+    <Content Include="NUnit 2.6\lib\nunit.util.dll" />
+    <Content Include="NUnit 2.6\nunit-agent-x86.exe" />
+    <Content Include="NUnit 2.6\nunit-agent-x86.exe.config" />
+    <Content Include="NUnit 2.6\nunit-agent.exe" />
+    <Content Include="NUnit 2.6\nunit-agent.exe.config" />
+    <Content Include="NUnit 2.6\nunit-console-x86.exe" />
+    <Content Include="NUnit 2.6\nunit-console-x86.exe.config" />
+    <Content Include="NUnit 2.6\nunit-console.exe" />
+    <Content Include="NUnit 2.6\nunit-console.exe.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Class Libraries\MSBuild.Compliance\MSBuild.csproj">
+      <Name>MSBuild</Name>
+      <Project>{0ff43960-7762-46a3-ba82-dba2161dbac9}</Project>
+      <Private>True</Private>
+      <DoNotHarvest>True</DoNotHarvest>
+      <RefProjectOutputGroups>Binaries;Content;Satellites</RefProjectOutputGroups>
+      <RefTargetDir>INSTALLLOCATION</RefTargetDir>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(WixTargetsPath)" />
+  <!--
+	To modify your build process, add your task inside one of the targets below and uncomment it.
+	Other similar extension points exist, see Wix.targets.
+	<Target Name="BeforeBuild">
+	</Target>
+	<Target Name="AfterBuild">
+	</Target>
+	-->
+</Project>

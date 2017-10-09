@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/958/trunk/src/Cavity%20Task%20Management%20Service/Static%20Libraries/TaskManagement.EventLog.Messages
+END
+Messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/708/trunk/src/Cavity%20Task%20Management%20Service/Static%20Libraries/TaskManagement.EventLog.Messages/Messages.h
+END
+Messages.res
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/709/trunk/src/Cavity%20Task%20Management%20Service/Static%20Libraries/TaskManagement.EventLog.Messages/Messages.res
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/708/trunk/src/Cavity%20Task%20Management%20Service/Static%20Libraries/TaskManagement.EventLog.Messages/stdafx.h
+END
+TaskManagement.EventLog.Messages.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/941/trunk/src/Cavity%20Task%20Management%20Service/Static%20Libraries/TaskManagement.EventLog.Messages/TaskManagement.EventLog.Messages.vcxproj
+END
+Messages.mc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/697/trunk/src/Cavity%20Task%20Management%20Service/Static%20Libraries/TaskManagement.EventLog.Messages/Messages.mc
+END
+TaskManagement.EventLog.Messages.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/708/trunk/src/Cavity%20Task%20Management%20Service/Static%20Libraries/TaskManagement.EventLog.Messages/TaskManagement.EventLog.Messages.vcxproj.filters
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/708/trunk/src/Cavity%20Task%20Management%20Service/Static%20Libraries/TaskManagement.EventLog.Messages/targetver.h
+END
+Messages.rc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/708/trunk/src/Cavity%20Task%20Management%20Service/Static%20Libraries/TaskManagement.EventLog.Messages/Messages.rc
+END
+MSG00409.bin
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/709/trunk/src/Cavity%20Task%20Management%20Service/Static%20Libraries/TaskManagement.EventLog.Messages/MSG00409.bin
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/708/trunk/src/Cavity%20Task%20Management%20Service/Static%20Libraries/TaskManagement.EventLog.Messages/stdafx.cpp
+END
+link.txt
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/747/trunk/src/Cavity%20Task%20Management%20Service/Static%20Libraries/TaskManagement.EventLog.Messages/link.txt
+END

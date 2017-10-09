@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/972/trunk/src/Cavity%20Web/Class%20Libraries/Web.Facts
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/747/trunk/src/Cavity%20Web/Class%20Libraries/Web.Facts/app.config
+END
+Web.Facts.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/972/trunk/src/Cavity%20Web/Class%20Libraries/Web.Facts/Web.Facts.csproj
+END
+redirection.config
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/747/trunk/src/Cavity%20Web/Class%20Libraries/Web.Facts/redirection.config
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/972/trunk/src/Cavity%20Web/Class%20Libraries/Web.Facts/packages.config
+END

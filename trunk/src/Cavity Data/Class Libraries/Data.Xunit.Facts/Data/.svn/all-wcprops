@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Xunit.Facts/Data
+END
+CsvDataAttribute.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Xunit.Facts/Data/CsvDataAttribute.Facts.cs
+END
+TsvDataAttribute.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Xunit.Facts/Data/TsvDataAttribute.Facts.cs
+END
+CsvHttpAttribute.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Xunit.Facts/Data/CsvHttpAttribute.Facts.cs
+END
+TsvHttpAttribute.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/967/trunk/src/Cavity%20Data/Class%20Libraries/Data.Xunit.Facts/Data/TsvHttpAttribute.Facts.cs
+END

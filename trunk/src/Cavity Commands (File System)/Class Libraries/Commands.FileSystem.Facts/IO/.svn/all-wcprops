@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/967/trunk/src/Cavity%20Commands%20(File%20System)/Class%20Libraries/Commands.FileSystem.Facts/IO
+END
+DirectoryCreateCommand.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/967/trunk/src/Cavity%20Commands%20(File%20System)/Class%20Libraries/Commands.FileSystem.Facts/IO/DirectoryCreateCommand.Facts.cs
+END
+FileCopyCommand.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/967/trunk/src/Cavity%20Commands%20(File%20System)/Class%20Libraries/Commands.FileSystem.Facts/IO/FileCopyCommand.Facts.cs
+END
+FileMoveCommand.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/967/trunk/src/Cavity%20Commands%20(File%20System)/Class%20Libraries/Commands.FileSystem.Facts/IO/FileMoveCommand.Facts.cs
+END

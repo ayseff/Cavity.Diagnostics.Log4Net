@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003"
+         DefaultTargets="Rebuild"
+         ToolsVersion="4.0">
+  <ItemGroup>
+  	<Solutions Include="Cavity Caching" />
+  	<Solutions Include="Cavity Commands" />
+  	<Solutions Include="Cavity Commands (File System)" />
+  	<Solutions Include="Cavity Configuration" />
+  	<Solutions Include="Cavity Core" />
+  	<Solutions Include="Cavity Data" />
+  	<Solutions Include="Cavity Data (ACE)" />
+  	<Solutions Include="Cavity Data (CSV)" />
+  	<Solutions Include="Cavity Data (HTML)" />
+  	<Solutions Include="Cavity Data (JSON)" />
+  	<Solutions Include="Cavity Data (TSV)" />
+  	<Solutions Include="Cavity Data (XML)" />
+  	<Solutions Include="Cavity Diagnostics log4net" />
+  	<Solutions Include="Cavity Domain" />
+  	<Solutions Include="Cavity HTTP Generalizations" />
+  	<Solutions Include="Cavity HTTP Testing" />
+  	<Solutions Include="Cavity Service Location" />
+  </ItemGroup>
+  <Target Name="Rebuild">
+    <MSBuild Projects="$(MSBuildProjectDirectory)\src\%(Solutions.Identity)\%(Solutions.Identity).sln"
+             Targets="Rebuild"
+             Properties="$(MSBuildProperties);TargetFrameworkVersion=v2.0"
+             BuildInParallel="true" />
+    <MSBuild Projects="$(MSBuildProjectDirectory)\src\%(Solutions.Identity)\%(Solutions.Identity).sln"
+             Targets="Rebuild"
+             Properties="$(MSBuildProperties);TargetFrameworkVersion=v3.5"
+             BuildInParallel="true" />
+    <MSBuild Projects="$(MSBuildProjectDirectory)\src\%(Solutions.Identity)\%(Solutions.Identity).sln"
+             Targets="Rebuild"
+             Properties="$(MSBuildProperties);TargetFrameworkVersion=v4.0"
+             BuildInParallel="true" />
+  </Target>
+</Project>

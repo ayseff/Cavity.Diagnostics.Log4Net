@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IO
+END
+FileSpec.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IO/FileSpec.Facts.cs
+END
+FileInfo.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IO/FileInfo.ExtensionMethods.Facts.cs
+END
+TempDirectory.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IO/TempDirectory.Facts.cs
+END
+FileWriter.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IO/FileWriter.Facts.cs
+END
+CurrentTempDirectory.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/958/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IO/CurrentTempDirectory.Facts.cs
+END
+StreamWriterDictionary.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IO/StreamWriterDictionary.Facts.cs
+END
+DirectoryInfo.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IO/DirectoryInfo.ExtensionMethods.Facts.cs
+END
+FileSystemInfo.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IO/FileSystemInfo.ExtensionMethods.Facts.cs
+END
+IOrderedEnumerable`FileSystem.ExtensionMethods.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IO/IOrderedEnumerable%60FileSystem.ExtensionMethods.Facts.cs
+END
+EncodedStringWriter.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IO/EncodedStringWriter.Facts.cs
+END
+TempFile.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IO/TempFile.Facts.cs
+END
+CurrentDirectory.Facts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/967/trunk/src/Cavity%20Core/Class%20Libraries/Core.Facts/IO/CurrentDirectory.Facts.cs
+END

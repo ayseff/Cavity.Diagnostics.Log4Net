@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/970/trunk/src/Cavity%20Service%20Location%20(Autofac)/Class%20Libraries/ServiceLocation.Autofac.Facts
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/444/trunk/src/Cavity%20Service%20Location%20(Autofac)/Class%20Libraries/ServiceLocation.Autofac.Facts/app.config
+END
+autofac.config
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/445/trunk/src/Cavity%20Service%20Location%20(Autofac)/Class%20Libraries/ServiceLocation.Autofac.Facts/autofac.config
+END
+ServiceLocation.Autofac.Facts.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/970/trunk/src/Cavity%20Service%20Location%20(Autofac)/Class%20Libraries/ServiceLocation.Autofac.Facts/ServiceLocation.Autofac.Facts.csproj
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/970/trunk/src/Cavity%20Service%20Location%20(Autofac)/Class%20Libraries/ServiceLocation.Autofac.Facts/packages.config
+END

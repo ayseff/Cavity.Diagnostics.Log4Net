@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Cavity.Configuration.Facts</AssemblyName>
+    <ProjectGuid>{ED57D96C-E503-48FB-856B-7599B2F75850}</ProjectGuid>
+    <RestorePackages>true</RestorePackages>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\..\</SolutionDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Content Include="Properties\CodeAnalysis.dictionary" />
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="paths.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt; '2.0' ">
+    <Compile Include="Collections\FileCollection.Facts.cs" />
+    <Compile Include="Collections\DirectoryCollection.Facts.cs" />
+    <Compile Include="Collections\DirectoryItem.Facts.cs" />
+    <Compile Include="Collections\FileItem.Facts.cs" />
+    <Compile Include="Collections\PathItem.Derived.cs" />
+    <Compile Include="Collections\PathItem.Facts.cs" />
+    <Compile Include="Configuration\Paths.Facts.cs" />
+    <Compile Include="Collections\StringList.Facts.cs" />
+    <Compile Include="Configuration\AddRemoveClearConfigurationElementCollection`1.Facts.cs" />
+    <Compile Include="Configuration\Config.Facts.cs" />
+    <Compile Include="Configuration\ConfigurationConverter`1.Facts.cs" />
+    <Compile Include="Configuration\ConfigurationProperty`1.Facts.cs" />
+    <Compile Include="Configuration\ConfigurationSection.Dummy.cs" />
+    <Compile Include="Configuration\ConfigurationSection.Dummy2.cs" />
+    <Compile Include="Configuration\ConfigurationSection.Dummy3.cs" />
+    <Compile Include="Configuration\ConfigurationSectionHandler.Dummy.cs" />
+    <Compile Include="Configuration\ConfigurationValidator`1.Facts.cs" />
+    <Compile Include="Configuration\ConfigXml.Facts.cs" />
+    <Compile Include="Configuration\NameValueConfigurationElement`1.Facts.cs" />
+    <Compile Include="Configuration\PathConfigurationSection.Derived.cs" />
+    <Compile Include="Configuration\PathConfigurationSection.Facts.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Cavity.Core">
+      <HintPath>..\..\packages\Cavity.Core.2.0.0.970\lib\$(TargetFrameworkVersionName)\Cavity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Xml" />
+    <Reference Include="xunit">
+      <HintPath>..\..\packages\xunit.1.9.2\lib\net20\xunit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt; '2.0' ">
+    <Reference Include="Cavity.Testing.Unit">
+      <HintPath>..\..\packages\Cavity.Testing.Unit.2.0.0.848\lib\$(TargetFrameworkVersionName)\Cavity.Testing.Unit.dll</HintPath>
+    </Reference>
+    <Reference Include="Moq">
+      <HintPath>..\..\packages\Moq.4.2.1409.1722\lib\$(TargetFrameworkVersionName)\Moq.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt;= '3.5' ">
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFrameworkVersionNumber)' &gt;= '4.0' ">
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Numerics" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Configuration\Configuration.csproj">
+      <Project>{0069A77A-0500-413A-8253-35018ED877DD}</Project>
+      <Name>Configuration</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\AnyCPU.platform" />
+  <Import Project="$(MSBuildExtensionsPath)\Cavity 2.0\Tests.project" />
+  <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
+  <!--
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

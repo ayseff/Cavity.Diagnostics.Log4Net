@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net
+END
+HttpDate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/HttpDate.cs
+END
+HttpClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/HttpClient.cs
+END
+Http.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/Http.cs
+END
+HttpMethod.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/HttpMethod.cs
+END
+HttpMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/HttpMessage.cs
+END
+HttpVersion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/HttpVersion.cs
+END
+IHttpClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/662/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/IHttpClient.cs
+END
+HttpRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/HttpRequest.cs
+END
+IHttp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/662/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/IHttp.cs
+END
+StatusLine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/StatusLine.cs
+END
+UserAgent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/UserAgent.cs
+END
+IHttpMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/IHttpMessage.cs
+END
+HttpResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/HttpResponse.cs
+END
+RequestLine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/RequestLine.cs
+END
+IHttpRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/662/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/IHttpRequest.cs
+END
+HttpHeaderCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/789/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/HttpHeaderCollection.cs
+END
+IUserAgent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/662/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/IUserAgent.cs
+END
+IHttpResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/662/trunk/src/Cavity%20HTTP%20Client/Class%20Libraries/Http.Client/Net/IHttpResponse.cs
+END

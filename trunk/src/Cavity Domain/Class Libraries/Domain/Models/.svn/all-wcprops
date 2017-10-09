@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain/Models
+END
+Lexicon.String.ExtensionMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain/Models/Lexicon.String.ExtensionMethods.cs
+END
+Money.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain/Models/Money.cs
+END
+BritishTelephone.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain/Models/BritishTelephone.cs
+END
+Coordinates.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain/Models/Coordinates.cs
+END
+Currency.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain/Models/Currency.cs
+END
+BritishTelephoneNumberPlanItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/957/trunk/src/Cavity%20Domain/Class%20Libraries/Domain/Models/BritishTelephoneNumberPlanItem.cs
+END
+BritishTelephoneNumberPlan.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain/Models/BritishTelephoneNumberPlan.cs
+END
+LexicalMatch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/785/trunk/src/Cavity%20Domain/Class%20Libraries/Domain/Models/LexicalMatch.cs
+END
+LexicalItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain/Models/LexicalItem.cs
+END
+Lexicon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain/Models/Lexicon.cs
+END
+Telephone.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain/Models/Telephone.cs
+END
+BritishTelephoneNumberLength.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/967/trunk/src/Cavity%20Domain/Class%20Libraries/Domain/Models/BritishTelephoneNumberLength.cs
+END

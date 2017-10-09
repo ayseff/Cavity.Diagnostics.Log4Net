@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/973/trunk/src/Cavity%20Utilities/Console%20Applications/DATA
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/972/trunk/src/Cavity%20Utilities/Console%20Applications/DATA/packages.config
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/972/trunk/src/Cavity%20Utilities/Console%20Applications/DATA/app.config
+END
+log4net.data.config
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/891/trunk/src/Cavity%20Utilities/Console%20Applications/DATA/log4net.data.config
+END
+DATA.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/972/trunk/src/Cavity%20Utilities/Console%20Applications/DATA/DATA.csproj
+END
+Arguments.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/972/trunk/src/Cavity%20Utilities/Console%20Applications/DATA/Arguments.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/972/trunk/src/Cavity%20Utilities/Console%20Applications/DATA/Program.cs
+END
+log4net.config
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/972/trunk/src/Cavity%20Utilities/Console%20Applications/DATA/log4net.config
+END

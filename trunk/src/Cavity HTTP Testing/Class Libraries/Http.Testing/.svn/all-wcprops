@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/972/trunk/src/Cavity%20HTTP%20Testing/Class%20Libraries/Http.Testing
+END
+IHttpExpectation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/743/trunk/src/Cavity%20HTTP%20Testing/Class%20Libraries/Http.Testing/IHttpExpectation.cs
+END
+HttpTestException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/967/trunk/src/Cavity%20HTTP%20Testing/Class%20Libraries/Http.Testing/HttpTestException.cs
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/972/trunk/src/Cavity%20HTTP%20Testing/Class%20Libraries/Http.Testing/packages.config
+END
+IHttpExpectations.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/743/trunk/src/Cavity%20HTTP%20Testing/Class%20Libraries/Http.Testing/IHttpExpectations.cs
+END
+HttpExpectation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/967/trunk/src/Cavity%20HTTP%20Testing/Class%20Libraries/Http.Testing/HttpExpectation.cs
+END
+Http.Testing.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/972/trunk/src/Cavity%20HTTP%20Testing/Class%20Libraries/Http.Testing/Http.Testing.csproj
+END
+HttpExpectations.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/967/trunk/src/Cavity%20HTTP%20Testing/Class%20Libraries/Http.Testing/HttpExpectations.cs
+END
